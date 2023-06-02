@@ -1,0 +1,7304 @@
+{
+  "Sheet1": [
+    {
+      "Date": 45077,
+      "Exchange rate": 14952.671875
+    },
+    {
+      "Date": 45078,
+      "Exchange rate": 14960.091796875
+    },
+    {
+      "Date": 45079,
+      "Exchange rate": 14954.162109375
+    },
+    {
+      "Date": 45080,
+      "Exchange rate": 14943.49609375
+    },
+    {
+      "Date": 45081,
+      "Exchange rate": 14929.71484375
+    },
+    {
+      "Date": 45082,
+      "Exchange rate": 14915.173828125
+    },
+    {
+      "Date": 45083,
+      "Exchange rate": 14901.4482421875
+    },
+    {
+      "Date": 45084,
+      "Exchange rate": 14885.90234375
+    },
+    {
+      "Date": 45085,
+      "Exchange rate": 14869.080078125
+    },
+    {
+      "Date": 45086,
+      "Exchange rate": 14852.6416015625
+    },
+    {
+      "Date": 45087,
+      "Exchange rate": 14836.1650390625
+    },
+    {
+      "Date": 45088,
+      "Exchange rate": 14819.6005859375
+    },
+    {
+      "Date": 45089,
+      "Exchange rate": 14803.14453125
+    },
+    {
+      "Date": 45090,
+      "Exchange rate": 14786.9150390625
+    },
+    {
+      "Date": 45091,
+      "Exchange rate": 14771.05078125
+    },
+    {
+      "Date": 45092,
+      "Exchange rate": 14755.5107421875
+    },
+    {
+      "Date": 45093,
+      "Exchange rate": 14740.306640625
+    },
+    {
+      "Date": 45094,
+      "Exchange rate": 14725.5
+    },
+    {
+      "Date": 45095,
+      "Exchange rate": 14711.1103515625
+    },
+    {
+      "Date": 45096,
+      "Exchange rate": 14697.119140625
+    },
+    {
+      "Date": 45097,
+      "Exchange rate": 14683.5419921875
+    },
+    {
+      "Date": 45098,
+      "Exchange rate": 14670.3603515625
+    },
+    {
+      "Date": 45099,
+      "Exchange rate": 14657.5654296875
+    },
+    {
+      "Date": 45100,
+      "Exchange rate": 14645.15234375
+    },
+    {
+      "Date": 45101,
+      "Exchange rate": 14633.1181640625
+    },
+    {
+      "Date": 45102,
+      "Exchange rate": 14621.4423828125
+    },
+    {
+      "Date": 45103,
+      "Exchange rate": 14610.09765625
+    },
+    {
+      "Date": 45104,
+      "Exchange rate": 14599.0732421875
+    },
+    {
+      "Date": 45105,
+      "Exchange rate": 14588.3505859375
+    },
+    {
+      "Date": 45106,
+      "Exchange rate": 14577.91015625
+    },
+    {
+      "Date": 45107,
+      "Exchange rate": 14567.7578125
+    },
+    {
+      "Date": 45108,
+      "Exchange rate": 14557.8603515625
+    },
+    {
+      "Date": 45109,
+      "Exchange rate": 14548.2041015625
+    },
+    {
+      "Date": 45110,
+      "Exchange rate": 14538.7958984375
+    },
+    {
+      "Date": 45111,
+      "Exchange rate": 14529.6142578125
+    },
+    {
+      "Date": 45112,
+      "Exchange rate": 14520.6455078125
+    },
+    {
+      "Date": 45113,
+      "Exchange rate": 14511.876953125
+    },
+    {
+      "Date": 45114,
+      "Exchange rate": 14503.2978515625
+    },
+    {
+      "Date": 45115,
+      "Exchange rate": 14494.8955078125
+    },
+    {
+      "Date": 45116,
+      "Exchange rate": 14486.65625
+    },
+    {
+      "Date": 45117,
+      "Exchange rate": 14478.5693359375
+    },
+    {
+      "Date": 45118,
+      "Exchange rate": 14470.6337890625
+    },
+    {
+      "Date": 45119,
+      "Exchange rate": 14462.83984375
+    },
+    {
+      "Date": 45120,
+      "Exchange rate": 14455.1728515625
+    },
+    {
+      "Date": 45121,
+      "Exchange rate": 14447.63671875
+    },
+    {
+      "Date": 45122,
+      "Exchange rate": 14440.216796875
+    },
+    {
+      "Date": 45123,
+      "Exchange rate": 14432.908203125
+    },
+    {
+      "Date": 45124,
+      "Exchange rate": 14425.7021484375
+    },
+    {
+      "Date": 45125,
+      "Exchange rate": 14418.5927734375
+    },
+    {
+      "Date": 45126,
+      "Exchange rate": 14411.5673828125
+    },
+    {
+      "Date": 45127,
+      "Exchange rate": 14404.6357421875
+    },
+    {
+      "Date": 45128,
+      "Exchange rate": 14397.8125
+    },
+    {
+      "Date": 45129,
+      "Exchange rate": 14391.076171875
+    },
+    {
+      "Date": 45130,
+      "Exchange rate": 14384.4228515625
+    },
+    {
+      "Date": 45131,
+      "Exchange rate": 14377.8505859375
+    },
+    {
+      "Date": 45132,
+      "Exchange rate": 14371.3662109375
+    },
+    {
+      "Date": 45133,
+      "Exchange rate": 14364.9599609375
+    },
+    {
+      "Date": 45134,
+      "Exchange rate": 14358.630859375
+    },
+    {
+      "Date": 45135,
+      "Exchange rate": 14352.3701171875
+    },
+    {
+      "Date": 45136,
+      "Exchange rate": 14346.1796875
+    },
+    {
+      "Date": 45137,
+      "Exchange rate": 14340.0537109375
+    },
+    {
+      "Date": 45138,
+      "Exchange rate": 14334.001953125
+    },
+    {
+      "Date": 45139,
+      "Exchange rate": 14328.0185546875
+    },
+    {
+      "Date": 45140,
+      "Exchange rate": 14322.107421875
+    },
+    {
+      "Date": 45141,
+      "Exchange rate": 14316.2529296875
+    },
+    {
+      "Date": 45142,
+      "Exchange rate": 14310.4609375
+    },
+    {
+      "Date": 45143,
+      "Exchange rate": 14304.7275390625
+    },
+    {
+      "Date": 45144,
+      "Exchange rate": 14299.0615234375
+    },
+    {
+      "Date": 45145,
+      "Exchange rate": 14293.4599609375
+    },
+    {
+      "Date": 45146,
+      "Exchange rate": 14287.916015625
+    },
+    {
+      "Date": 45147,
+      "Exchange rate": 14282.4287109375
+    },
+    {
+      "Date": 45148,
+      "Exchange rate": 14276.9931640625
+    },
+    {
+      "Date": 45149,
+      "Exchange rate": 14271.6103515625
+    },
+    {
+      "Date": 45150,
+      "Exchange rate": 14266.28515625
+    },
+    {
+      "Date": 45151,
+      "Exchange rate": 14261.0322265625
+    },
+    {
+      "Date": 45152,
+      "Exchange rate": 14255.828125
+    },
+    {
+      "Date": 45153,
+      "Exchange rate": 14250.6826171875
+    },
+    {
+      "Date": 45154,
+      "Exchange rate": 14245.603515625
+    },
+    {
+      "Date": 45155,
+      "Exchange rate": 14240.595703125
+    },
+    {
+      "Date": 45156,
+      "Exchange rate": 14235.6484375
+    },
+    {
+      "Date": 45157,
+      "Exchange rate": 14230.7587890625
+    },
+    {
+      "Date": 45158,
+      "Exchange rate": 14225.9296875
+    },
+    {
+      "Date": 45159,
+      "Exchange rate": 14221.162109375
+    },
+    {
+      "Date": 45160,
+      "Exchange rate": 14216.4677734375
+    },
+    {
+      "Date": 45161,
+      "Exchange rate": 14211.830078125
+    },
+    {
+      "Date": 45162,
+      "Exchange rate": 14207.263671875
+    },
+    {
+      "Date": 45163,
+      "Exchange rate": 14202.7548828125
+    },
+    {
+      "Date": 45164,
+      "Exchange rate": 14198.310546875
+    },
+    {
+      "Date": 45165,
+      "Exchange rate": 14193.9287109375
+    },
+    {
+      "Date": 45166,
+      "Exchange rate": 14189.595703125
+    },
+    {
+      "Date": 45167,
+      "Exchange rate": 14185.3076171875
+    },
+    {
+      "Date": 45168,
+      "Exchange rate": 14181.0712890625
+    },
+    {
+      "Date": 45169,
+      "Exchange rate": 14176.8740234375
+    },
+    {
+      "Date": 45170,
+      "Exchange rate": 14172.701171875
+    },
+    {
+      "Date": 45171,
+      "Exchange rate": 14168.5556640625
+    },
+    {
+      "Date": 45172,
+      "Exchange rate": 14164.4599609375
+    },
+    {
+      "Date": 45173,
+      "Exchange rate": 14160.404296875
+    },
+    {
+      "Date": 45174,
+      "Exchange rate": 14156.39453125
+    },
+    {
+      "Date": 45175,
+      "Exchange rate": 14152.423828125
+    },
+    {
+      "Date": 45176,
+      "Exchange rate": 14148.4892578125
+    },
+    {
+      "Date": 45177,
+      "Exchange rate": 14144.595703125
+    },
+    {
+      "Date": 45178,
+      "Exchange rate": 14140.7421875
+    },
+    {
+      "Date": 45179,
+      "Exchange rate": 14136.9267578125
+    },
+    {
+      "Date": 45180,
+      "Exchange rate": 14133.1552734375
+    },
+    {
+      "Date": 45181,
+      "Exchange rate": 14129.4326171875
+    },
+    {
+      "Date": 45182,
+      "Exchange rate": 14125.751953125
+    },
+    {
+      "Date": 45183,
+      "Exchange rate": 14122.1103515625
+    },
+    {
+      "Date": 45184,
+      "Exchange rate": 14118.521484375
+    },
+    {
+      "Date": 45185,
+      "Exchange rate": 14114.9912109375
+    },
+    {
+      "Date": 45186,
+      "Exchange rate": 14111.4990234375
+    },
+    {
+      "Date": 45187,
+      "Exchange rate": 14108.0556640625
+    },
+    {
+      "Date": 45188,
+      "Exchange rate": 14104.6572265625
+    },
+    {
+      "Date": 45189,
+      "Exchange rate": 14101.3076171875
+    },
+    {
+      "Date": 45190,
+      "Exchange rate": 14097.98046875
+    },
+    {
+      "Date": 45191,
+      "Exchange rate": 14094.689453125
+    },
+    {
+      "Date": 45192,
+      "Exchange rate": 14091.4365234375
+    },
+    {
+      "Date": 45193,
+      "Exchange rate": 14088.21484375
+    },
+    {
+      "Date": 45194,
+      "Exchange rate": 14085.021484375
+    },
+    {
+      "Date": 45195,
+      "Exchange rate": 14081.8564453125
+    },
+    {
+      "Date": 45196,
+      "Exchange rate": 14078.740234375
+    },
+    {
+      "Date": 45197,
+      "Exchange rate": 14075.6611328125
+    },
+    {
+      "Date": 45198,
+      "Exchange rate": 14072.6201171875
+    },
+    {
+      "Date": 45199,
+      "Exchange rate": 14069.623046875
+    },
+    {
+      "Date": 45200,
+      "Exchange rate": 14066.662109375
+    },
+    {
+      "Date": 45201,
+      "Exchange rate": 14063.7275390625
+    },
+    {
+      "Date": 45202,
+      "Exchange rate": 14060.830078125
+    },
+    {
+      "Date": 45203,
+      "Exchange rate": 14057.966796875
+    },
+    {
+      "Date": 45204,
+      "Exchange rate": 14055.1416015625
+    },
+    {
+      "Date": 45205,
+      "Exchange rate": 14052.3486328125
+    },
+    {
+      "Date": 45206,
+      "Exchange rate": 14049.6064453125
+    },
+    {
+      "Date": 45207,
+      "Exchange rate": 14046.890625
+    },
+    {
+      "Date": 45208,
+      "Exchange rate": 14044.208984375
+    },
+    {
+      "Date": 45209,
+      "Exchange rate": 14041.5615234375
+    },
+    {
+      "Date": 45210,
+      "Exchange rate": 14038.9404296875
+    },
+    {
+      "Date": 45211,
+      "Exchange rate": 14036.345703125
+    },
+    {
+      "Date": 45212,
+      "Exchange rate": 14033.7763671875
+    },
+    {
+      "Date": 45213,
+      "Exchange rate": 14031.2265625
+    },
+    {
+      "Date": 45214,
+      "Exchange rate": 14028.69921875
+    },
+    {
+      "Date": 45215,
+      "Exchange rate": 14026.1962890625
+    },
+    {
+      "Date": 45216,
+      "Exchange rate": 14023.7138671875
+    },
+    {
+      "Date": 45217,
+      "Exchange rate": 14021.2509765625
+    },
+    {
+      "Date": 45218,
+      "Exchange rate": 14018.814453125
+    },
+    {
+      "Date": 45219,
+      "Exchange rate": 14016.40234375
+    },
+    {
+      "Date": 45220,
+      "Exchange rate": 14014.01171875
+    },
+    {
+      "Date": 45221,
+      "Exchange rate": 14011.66015625
+    },
+    {
+      "Date": 45222,
+      "Exchange rate": 14009.3427734375
+    },
+    {
+      "Date": 45223,
+      "Exchange rate": 14007.0517578125
+    },
+    {
+      "Date": 45224,
+      "Exchange rate": 14004.796875
+    },
+    {
+      "Date": 45225,
+      "Exchange rate": 14002.5849609375
+    },
+    {
+      "Date": 45226,
+      "Exchange rate": 14000.3994140625
+    },
+    {
+      "Date": 45227,
+      "Exchange rate": 13998.25
+    },
+    {
+      "Date": 45228,
+      "Exchange rate": 13996.134765625
+    },
+    {
+      "Date": 45229,
+      "Exchange rate": 13994.0537109375
+    },
+    {
+      "Date": 45230,
+      "Exchange rate": 13992.0048828125
+    },
+    {
+      "Date": 45231,
+      "Exchange rate": 13989.9921875
+    },
+    {
+      "Date": 45232,
+      "Exchange rate": 13988.0185546875
+    },
+    {
+      "Date": 45233,
+      "Exchange rate": 13986.076171875
+    },
+    {
+      "Date": 45234,
+      "Exchange rate": 13984.1689453125
+    },
+    {
+      "Date": 45235,
+      "Exchange rate": 13982.2919921875
+    },
+    {
+      "Date": 45236,
+      "Exchange rate": 13980.453125
+    },
+    {
+      "Date": 45237,
+      "Exchange rate": 13978.6435546875
+    },
+    {
+      "Date": 45238,
+      "Exchange rate": 13976.8681640625
+    },
+    {
+      "Date": 45239,
+      "Exchange rate": 13975.125
+    },
+    {
+      "Date": 45240,
+      "Exchange rate": 13973.404296875
+    },
+    {
+      "Date": 45241,
+      "Exchange rate": 13971.708984375
+    },
+    {
+      "Date": 45242,
+      "Exchange rate": 13970.0390625
+    },
+    {
+      "Date": 45243,
+      "Exchange rate": 13968.3935546875
+    },
+    {
+      "Date": 45244,
+      "Exchange rate": 13966.7646484375
+    },
+    {
+      "Date": 45245,
+      "Exchange rate": 13965.1591796875
+    },
+    {
+      "Date": 45246,
+      "Exchange rate": 13963.5712890625
+    },
+    {
+      "Date": 45247,
+      "Exchange rate": 13962.00390625
+    },
+    {
+      "Date": 45248,
+      "Exchange rate": 13960.4580078125
+    },
+    {
+      "Date": 45249,
+      "Exchange rate": 13958.9267578125
+    },
+    {
+      "Date": 45250,
+      "Exchange rate": 13957.41015625
+    },
+    {
+      "Date": 45251,
+      "Exchange rate": 13955.912109375
+    },
+    {
+      "Date": 45252,
+      "Exchange rate": 13954.427734375
+    },
+    {
+      "Date": 45253,
+      "Exchange rate": 13952.9599609375
+    },
+    {
+      "Date": 45254,
+      "Exchange rate": 13951.50390625
+    },
+    {
+      "Date": 45255,
+      "Exchange rate": 13950.0556640625
+    },
+    {
+      "Date": 45256,
+      "Exchange rate": 13948.6201171875
+    },
+    {
+      "Date": 45257,
+      "Exchange rate": 13947.1953125
+    },
+    {
+      "Date": 45258,
+      "Exchange rate": 13945.7822265625
+    },
+    {
+      "Date": 45259,
+      "Exchange rate": 13944.376953125
+    },
+    {
+      "Date": 45260,
+      "Exchange rate": 13942.984375
+    },
+    {
+      "Date": 45261,
+      "Exchange rate": 13941.5986328125
+    },
+    {
+      "Date": 45262,
+      "Exchange rate": 13940.2236328125
+    },
+    {
+      "Date": 45263,
+      "Exchange rate": 13938.8583984375
+    },
+    {
+      "Date": 45264,
+      "Exchange rate": 13937.5048828125
+    },
+    {
+      "Date": 45265,
+      "Exchange rate": 13936.158203125
+    },
+    {
+      "Date": 45266,
+      "Exchange rate": 13934.8173828125
+    },
+    {
+      "Date": 45267,
+      "Exchange rate": 13933.484375
+    },
+    {
+      "Date": 45268,
+      "Exchange rate": 13932.1552734375
+    },
+    {
+      "Date": 45269,
+      "Exchange rate": 13930.8330078125
+    },
+    {
+      "Date": 45270,
+      "Exchange rate": 13929.5166015625
+    },
+    {
+      "Date": 45271,
+      "Exchange rate": 13928.201171875
+    },
+    {
+      "Date": 45272,
+      "Exchange rate": 13926.888671875
+    },
+    {
+      "Date": 45273,
+      "Exchange rate": 13925.580078125
+    },
+    {
+      "Date": 45274,
+      "Exchange rate": 13924.2724609375
+    },
+    {
+      "Date": 45275,
+      "Exchange rate": 13922.970703125
+    },
+    {
+      "Date": 45276,
+      "Exchange rate": 13921.671875
+    },
+    {
+      "Date": 45277,
+      "Exchange rate": 13920.3798828125
+    },
+    {
+      "Date": 45278,
+      "Exchange rate": 13919.0908203125
+    },
+    {
+      "Date": 45279,
+      "Exchange rate": 13917.80859375
+    },
+    {
+      "Date": 45280,
+      "Exchange rate": 13916.529296875
+    },
+    {
+      "Date": 45281,
+      "Exchange rate": 13915.2587890625
+    },
+    {
+      "Date": 45282,
+      "Exchange rate": 13914.0009765625
+    },
+    {
+      "Date": 45283,
+      "Exchange rate": 13912.75
+    },
+    {
+      "Date": 45284,
+      "Exchange rate": 13911.509765625
+    },
+    {
+      "Date": 45285,
+      "Exchange rate": 13910.2802734375
+    },
+    {
+      "Date": 45286,
+      "Exchange rate": 13909.064453125
+    },
+    {
+      "Date": 45287,
+      "Exchange rate": 13907.859375
+    },
+    {
+      "Date": 45288,
+      "Exchange rate": 13906.6669921875
+    },
+    {
+      "Date": 45289,
+      "Exchange rate": 13905.486328125
+    },
+    {
+      "Date": 45290,
+      "Exchange rate": 13904.3193359375
+    },
+    {
+      "Date": 45291,
+      "Exchange rate": 13903.1630859375
+    },
+    {
+      "Date": 45292,
+      "Exchange rate": 13902.01953125
+    },
+    {
+      "Date": 45293,
+      "Exchange rate": 13900.8876953125
+    },
+    {
+      "Date": 45294,
+      "Exchange rate": 13899.767578125
+    },
+    {
+      "Date": 45295,
+      "Exchange rate": 13898.662109375
+    },
+    {
+      "Date": 45296,
+      "Exchange rate": 13897.5771484375
+    },
+    {
+      "Date": 45297,
+      "Exchange rate": 13896.5048828125
+    },
+    {
+      "Date": 45298,
+      "Exchange rate": 13895.4462890625
+    },
+    {
+      "Date": 45299,
+      "Exchange rate": 13894.404296875
+    },
+    {
+      "Date": 45300,
+      "Exchange rate": 13893.3837890625
+    },
+    {
+      "Date": 45301,
+      "Exchange rate": 13892.3779296875
+    },
+    {
+      "Date": 45302,
+      "Exchange rate": 13891.390625
+    },
+    {
+      "Date": 45303,
+      "Exchange rate": 13890.41796875
+    },
+    {
+      "Date": 45304,
+      "Exchange rate": 13889.46484375
+    },
+    {
+      "Date": 45305,
+      "Exchange rate": 13888.52734375
+    },
+    {
+      "Date": 45306,
+      "Exchange rate": 13887.6103515625
+    },
+    {
+      "Date": 45307,
+      "Exchange rate": 13886.7080078125
+    },
+    {
+      "Date": 45308,
+      "Exchange rate": 13885.822265625
+    },
+    {
+      "Date": 45309,
+      "Exchange rate": 13884.953125
+    },
+    {
+      "Date": 45310,
+      "Exchange rate": 13884.1005859375
+    },
+    {
+      "Date": 45311,
+      "Exchange rate": 13883.263671875
+    },
+    {
+      "Date": 45312,
+      "Exchange rate": 13882.4423828125
+    },
+    {
+      "Date": 45313,
+      "Exchange rate": 13881.634765625
+    },
+    {
+      "Date": 45314,
+      "Exchange rate": 13880.8427734375
+    },
+    {
+      "Date": 45315,
+      "Exchange rate": 13880.064453125
+    },
+    {
+      "Date": 45316,
+      "Exchange rate": 13879.30078125
+    },
+    {
+      "Date": 45317,
+      "Exchange rate": 13878.55078125
+    },
+    {
+      "Date": 45318,
+      "Exchange rate": 13877.8134765625
+    },
+    {
+      "Date": 45319,
+      "Exchange rate": 13877.091796875
+    },
+    {
+      "Date": 45320,
+      "Exchange rate": 13876.380859375
+    },
+    {
+      "Date": 45321,
+      "Exchange rate": 13875.68359375
+    },
+    {
+      "Date": 45322,
+      "Exchange rate": 13874.9970703125
+    },
+    {
+      "Date": 45323,
+      "Exchange rate": 13874.3251953125
+    },
+    {
+      "Date": 45324,
+      "Exchange rate": 13873.6669921875
+    },
+    {
+      "Date": 45325,
+      "Exchange rate": 13873.0224609375
+    },
+    {
+      "Date": 45326,
+      "Exchange rate": 13872.390625
+    },
+    {
+      "Date": 45327,
+      "Exchange rate": 13871.7724609375
+    },
+    {
+      "Date": 45328,
+      "Exchange rate": 13871.1669921875
+    },
+    {
+      "Date": 45329,
+      "Exchange rate": 13870.5751953125
+    },
+    {
+      "Date": 45330,
+      "Exchange rate": 13869.994140625
+    },
+    {
+      "Date": 45331,
+      "Exchange rate": 13869.4267578125
+    },
+    {
+      "Date": 45332,
+      "Exchange rate": 13868.87109375
+    },
+    {
+      "Date": 45333,
+      "Exchange rate": 13868.326171875
+    },
+    {
+      "Date": 45334,
+      "Exchange rate": 13867.7939453125
+    },
+    {
+      "Date": 45335,
+      "Exchange rate": 13867.2724609375
+    },
+    {
+      "Date": 45336,
+      "Exchange rate": 13866.76171875
+    },
+    {
+      "Date": 45337,
+      "Exchange rate": 13866.2607421875
+    },
+    {
+      "Date": 45338,
+      "Exchange rate": 13865.771484375
+    },
+    {
+      "Date": 45339,
+      "Exchange rate": 13865.29296875
+    },
+    {
+      "Date": 45340,
+      "Exchange rate": 13864.8232421875
+    },
+    {
+      "Date": 45341,
+      "Exchange rate": 13864.3623046875
+    },
+    {
+      "Date": 45342,
+      "Exchange rate": 13863.912109375
+    },
+    {
+      "Date": 45343,
+      "Exchange rate": 13863.470703125
+    },
+    {
+      "Date": 45344,
+      "Exchange rate": 13863.0380859375
+    },
+    {
+      "Date": 45345,
+      "Exchange rate": 13862.6142578125
+    },
+    {
+      "Date": 45346,
+      "Exchange rate": 13862.19921875
+    },
+    {
+      "Date": 45347,
+      "Exchange rate": 13861.7919921875
+    },
+    {
+      "Date": 45348,
+      "Exchange rate": 13861.3935546875
+    },
+    {
+      "Date": 45349,
+      "Exchange rate": 13861.001953125
+    },
+    {
+      "Date": 45350,
+      "Exchange rate": 13860.619140625
+    },
+    {
+      "Date": 45351,
+      "Exchange rate": 13860.2421875
+    },
+    {
+      "Date": 45352,
+      "Exchange rate": 13859.8740234375
+    },
+    {
+      "Date": 45353,
+      "Exchange rate": 13859.5126953125
+    },
+    {
+      "Date": 45354,
+      "Exchange rate": 13859.1572265625
+    },
+    {
+      "Date": 45355,
+      "Exchange rate": 13858.80859375
+    },
+    {
+      "Date": 45356,
+      "Exchange rate": 13858.4677734375
+    },
+    {
+      "Date": 45357,
+      "Exchange rate": 13858.1328125
+    },
+    {
+      "Date": 45358,
+      "Exchange rate": 13857.8046875
+    },
+    {
+      "Date": 45359,
+      "Exchange rate": 13857.482421875
+    },
+    {
+      "Date": 45360,
+      "Exchange rate": 13857.1669921875
+    },
+    {
+      "Date": 45361,
+      "Exchange rate": 13856.8564453125
+    },
+    {
+      "Date": 45362,
+      "Exchange rate": 13856.552734375
+    },
+    {
+      "Date": 45363,
+      "Exchange rate": 13856.2548828125
+    },
+    {
+      "Date": 45364,
+      "Exchange rate": 13855.962890625
+    },
+    {
+      "Date": 45365,
+      "Exchange rate": 13855.67578125
+    },
+    {
+      "Date": 45366,
+      "Exchange rate": 13855.39453125
+    },
+    {
+      "Date": 45367,
+      "Exchange rate": 13855.1201171875
+    },
+    {
+      "Date": 45368,
+      "Exchange rate": 13854.8515625
+    },
+    {
+      "Date": 45369,
+      "Exchange rate": 13854.587890625
+    },
+    {
+      "Date": 45370,
+      "Exchange rate": 13854.3310546875
+    },
+    {
+      "Date": 45371,
+      "Exchange rate": 13854.076171875
+    },
+    {
+      "Date": 45372,
+      "Exchange rate": 13853.8271484375
+    },
+    {
+      "Date": 45373,
+      "Exchange rate": 13853.580078125
+    },
+    {
+      "Date": 45374,
+      "Exchange rate": 13853.3349609375
+    },
+    {
+      "Date": 45375,
+      "Exchange rate": 13853.09375
+    },
+    {
+      "Date": 45376,
+      "Exchange rate": 13852.853515625
+    },
+    {
+      "Date": 45377,
+      "Exchange rate": 13852.6171875
+    },
+    {
+      "Date": 45378,
+      "Exchange rate": 13852.3837890625
+    },
+    {
+      "Date": 45379,
+      "Exchange rate": 13852.15234375
+    },
+    {
+      "Date": 45380,
+      "Exchange rate": 13851.923828125
+    },
+    {
+      "Date": 45381,
+      "Exchange rate": 13851.697265625
+    },
+    {
+      "Date": 45382,
+      "Exchange rate": 13851.47265625
+    },
+    {
+      "Date": 45383,
+      "Exchange rate": 13851.2509765625
+    },
+    {
+      "Date": 45384,
+      "Exchange rate": 13851.03125
+    },
+    {
+      "Date": 45385,
+      "Exchange rate": 13850.8134765625
+    },
+    {
+      "Date": 45386,
+      "Exchange rate": 13850.5986328125
+    },
+    {
+      "Date": 45387,
+      "Exchange rate": 13850.38671875
+    },
+    {
+      "Date": 45388,
+      "Exchange rate": 13850.17578125
+    },
+    {
+      "Date": 45389,
+      "Exchange rate": 13849.9677734375
+    },
+    {
+      "Date": 45390,
+      "Exchange rate": 13849.7607421875
+    },
+    {
+      "Date": 45391,
+      "Exchange rate": 13849.5576171875
+    },
+    {
+      "Date": 45392,
+      "Exchange rate": 13849.35546875
+    },
+    {
+      "Date": 45393,
+      "Exchange rate": 13849.15625
+    },
+    {
+      "Date": 45394,
+      "Exchange rate": 13848.958984375
+    },
+    {
+      "Date": 45395,
+      "Exchange rate": 13848.763671875
+    },
+    {
+      "Date": 45396,
+      "Exchange rate": 13848.5703125
+    },
+    {
+      "Date": 45397,
+      "Exchange rate": 13848.37890625
+    },
+    {
+      "Date": 45398,
+      "Exchange rate": 13848.189453125
+    },
+    {
+      "Date": 45399,
+      "Exchange rate": 13848.001953125
+    },
+    {
+      "Date": 45400,
+      "Exchange rate": 13847.81640625
+    },
+    {
+      "Date": 45401,
+      "Exchange rate": 13847.6328125
+    },
+    {
+      "Date": 45402,
+      "Exchange rate": 13847.451171875
+    },
+    {
+      "Date": 45403,
+      "Exchange rate": 13847.271484375
+    },
+    {
+      "Date": 45404,
+      "Exchange rate": 13847.0927734375
+    },
+    {
+      "Date": 45405,
+      "Exchange rate": 13846.9169921875
+    },
+    {
+      "Date": 45406,
+      "Exchange rate": 13846.7421875
+    },
+    {
+      "Date": 45407,
+      "Exchange rate": 13846.568359375
+    },
+    {
+      "Date": 45408,
+      "Exchange rate": 13846.3984375
+    },
+    {
+      "Date": 45409,
+      "Exchange rate": 13846.228515625
+    },
+    {
+      "Date": 45410,
+      "Exchange rate": 13846.0615234375
+    },
+    {
+      "Date": 45411,
+      "Exchange rate": 13845.8955078125
+    },
+    {
+      "Date": 45412,
+      "Exchange rate": 13845.73046875
+    },
+    {
+      "Date": 45413,
+      "Exchange rate": 13845.5673828125
+    },
+    {
+      "Date": 45414,
+      "Exchange rate": 13845.4072265625
+    },
+    {
+      "Date": 45415,
+      "Exchange rate": 13845.2470703125
+    },
+    {
+      "Date": 45416,
+      "Exchange rate": 13845.0888671875
+    },
+    {
+      "Date": 45417,
+      "Exchange rate": 13844.9326171875
+    },
+    {
+      "Date": 45418,
+      "Exchange rate": 13844.7783203125
+    },
+    {
+      "Date": 45419,
+      "Exchange rate": 13844.625
+    },
+    {
+      "Date": 45420,
+      "Exchange rate": 13844.47265625
+    },
+    {
+      "Date": 45421,
+      "Exchange rate": 13844.3232421875
+    },
+    {
+      "Date": 45422,
+      "Exchange rate": 13844.173828125
+    },
+    {
+      "Date": 45423,
+      "Exchange rate": 13844.0263671875
+    },
+    {
+      "Date": 45424,
+      "Exchange rate": 13843.880859375
+    },
+    {
+      "Date": 45425,
+      "Exchange rate": 13843.736328125
+    },
+    {
+      "Date": 45426,
+      "Exchange rate": 13843.5927734375
+    },
+    {
+      "Date": 45427,
+      "Exchange rate": 13843.4521484375
+    },
+    {
+      "Date": 45428,
+      "Exchange rate": 13843.3115234375
+    },
+    {
+      "Date": 45429,
+      "Exchange rate": 13843.1728515625
+    },
+    {
+      "Date": 45430,
+      "Exchange rate": 13843.03515625
+    },
+    {
+      "Date": 45431,
+      "Exchange rate": 13842.8984375
+    },
+    {
+      "Date": 45432,
+      "Exchange rate": 13842.7646484375
+    },
+    {
+      "Date": 45433,
+      "Exchange rate": 13842.630859375
+    },
+    {
+      "Date": 45434,
+      "Exchange rate": 13842.498046875
+    },
+    {
+      "Date": 45435,
+      "Exchange rate": 13842.3671875
+    },
+    {
+      "Date": 45436,
+      "Exchange rate": 13842.2373046875
+    },
+    {
+      "Date": 45437,
+      "Exchange rate": 13842.109375
+    },
+    {
+      "Date": 45438,
+      "Exchange rate": 13841.982421875
+    },
+    {
+      "Date": 45439,
+      "Exchange rate": 13841.8564453125
+    },
+    {
+      "Date": 45440,
+      "Exchange rate": 13841.73046875
+    },
+    {
+      "Date": 45441,
+      "Exchange rate": 13841.6083984375
+    },
+    {
+      "Date": 45442,
+      "Exchange rate": 13841.4853515625
+    },
+    {
+      "Date": 45443,
+      "Exchange rate": 13841.3642578125
+    },
+    {
+      "Date": 45444,
+      "Exchange rate": 13841.244140625
+    },
+    {
+      "Date": 45445,
+      "Exchange rate": 13841.125
+    },
+    {
+      "Date": 45446,
+      "Exchange rate": 13841.0078125
+    },
+    {
+      "Date": 45447,
+      "Exchange rate": 13840.8896484375
+    },
+    {
+      "Date": 45448,
+      "Exchange rate": 13840.7744140625
+    },
+    {
+      "Date": 45449,
+      "Exchange rate": 13840.6591796875
+    },
+    {
+      "Date": 45450,
+      "Exchange rate": 13840.546875
+    },
+    {
+      "Date": 45451,
+      "Exchange rate": 13840.43359375
+    },
+    {
+      "Date": 45452,
+      "Exchange rate": 13840.322265625
+    },
+    {
+      "Date": 45453,
+      "Exchange rate": 13840.2119140625
+    },
+    {
+      "Date": 45454,
+      "Exchange rate": 13840.103515625
+    },
+    {
+      "Date": 45455,
+      "Exchange rate": 13839.9951171875
+    },
+    {
+      "Date": 45456,
+      "Exchange rate": 13839.8876953125
+    },
+    {
+      "Date": 45457,
+      "Exchange rate": 13839.7822265625
+    },
+    {
+      "Date": 45458,
+      "Exchange rate": 13839.677734375
+    },
+    {
+      "Date": 45459,
+      "Exchange rate": 13839.5732421875
+    },
+    {
+      "Date": 45460,
+      "Exchange rate": 13839.470703125
+    },
+    {
+      "Date": 45461,
+      "Exchange rate": 13839.369140625
+    },
+    {
+      "Date": 45462,
+      "Exchange rate": 13839.2685546875
+    },
+    {
+      "Date": 45463,
+      "Exchange rate": 13839.1689453125
+    },
+    {
+      "Date": 45464,
+      "Exchange rate": 13839.0703125
+    },
+    {
+      "Date": 45465,
+      "Exchange rate": 13838.97265625
+    },
+    {
+      "Date": 45466,
+      "Exchange rate": 13838.875
+    },
+    {
+      "Date": 45467,
+      "Exchange rate": 13838.779296875
+    },
+    {
+      "Date": 45468,
+      "Exchange rate": 13838.6845703125
+    },
+    {
+      "Date": 45469,
+      "Exchange rate": 13838.5908203125
+    },
+    {
+      "Date": 45470,
+      "Exchange rate": 13838.4970703125
+    },
+    {
+      "Date": 45471,
+      "Exchange rate": 13838.4052734375
+    },
+    {
+      "Date": 45472,
+      "Exchange rate": 13838.3134765625
+    },
+    {
+      "Date": 45473,
+      "Exchange rate": 13838.2236328125
+    },
+    {
+      "Date": 45474,
+      "Exchange rate": 13838.1337890625
+    },
+    {
+      "Date": 45475,
+      "Exchange rate": 13838.044921875
+    },
+    {
+      "Date": 45476,
+      "Exchange rate": 13837.9580078125
+    },
+    {
+      "Date": 45477,
+      "Exchange rate": 13837.87109375
+    },
+    {
+      "Date": 45478,
+      "Exchange rate": 13837.7841796875
+    },
+    {
+      "Date": 45479,
+      "Exchange rate": 13837.7001953125
+    },
+    {
+      "Date": 45480,
+      "Exchange rate": 13837.615234375
+    },
+    {
+      "Date": 45481,
+      "Exchange rate": 13837.53125
+    },
+    {
+      "Date": 45482,
+      "Exchange rate": 13837.44921875
+    },
+    {
+      "Date": 45483,
+      "Exchange rate": 13837.3671875
+    },
+    {
+      "Date": 45484,
+      "Exchange rate": 13837.287109375
+    },
+    {
+      "Date": 45485,
+      "Exchange rate": 13837.20703125
+    },
+    {
+      "Date": 45486,
+      "Exchange rate": 13837.126953125
+    },
+    {
+      "Date": 45487,
+      "Exchange rate": 13837.048828125
+    },
+    {
+      "Date": 45488,
+      "Exchange rate": 13836.970703125
+    },
+    {
+      "Date": 45489,
+      "Exchange rate": 13836.8935546875
+    },
+    {
+      "Date": 45490,
+      "Exchange rate": 13836.8173828125
+    },
+    {
+      "Date": 45491,
+      "Exchange rate": 13836.7421875
+    },
+    {
+      "Date": 45492,
+      "Exchange rate": 13836.6669921875
+    },
+    {
+      "Date": 45493,
+      "Exchange rate": 13836.5927734375
+    },
+    {
+      "Date": 45494,
+      "Exchange rate": 13836.51953125
+    },
+    {
+      "Date": 45495,
+      "Exchange rate": 13836.447265625
+    },
+    {
+      "Date": 45496,
+      "Exchange rate": 13836.375
+    },
+    {
+      "Date": 45497,
+      "Exchange rate": 13836.3037109375
+    },
+    {
+      "Date": 45498,
+      "Exchange rate": 13836.232421875
+    },
+    {
+      "Date": 45499,
+      "Exchange rate": 13836.1630859375
+    },
+    {
+      "Date": 45500,
+      "Exchange rate": 13836.09375
+    },
+    {
+      "Date": 45501,
+      "Exchange rate": 13836.025390625
+    },
+    {
+      "Date": 45502,
+      "Exchange rate": 13835.95703125
+    },
+    {
+      "Date": 45503,
+      "Exchange rate": 13835.890625
+    },
+    {
+      "Date": 45504,
+      "Exchange rate": 13835.8232421875
+    },
+    {
+      "Date": 45505,
+      "Exchange rate": 13835.7578125
+    },
+    {
+      "Date": 45506,
+      "Exchange rate": 13835.6923828125
+    },
+    {
+      "Date": 45507,
+      "Exchange rate": 13835.626953125
+    },
+    {
+      "Date": 45508,
+      "Exchange rate": 13835.5634765625
+    },
+    {
+      "Date": 45509,
+      "Exchange rate": 13835.5
+    },
+    {
+      "Date": 45510,
+      "Exchange rate": 13835.4365234375
+    },
+    {
+      "Date": 45511,
+      "Exchange rate": 13835.3740234375
+    },
+    {
+      "Date": 45512,
+      "Exchange rate": 13835.3134765625
+    },
+    {
+      "Date": 45513,
+      "Exchange rate": 13835.251953125
+    },
+    {
+      "Date": 45514,
+      "Exchange rate": 13835.19140625
+    },
+    {
+      "Date": 45515,
+      "Exchange rate": 13835.1318359375
+    },
+    {
+      "Date": 45516,
+      "Exchange rate": 13835.0712890625
+    },
+    {
+      "Date": 45517,
+      "Exchange rate": 13835.013671875
+    },
+    {
+      "Date": 45518,
+      "Exchange rate": 13834.955078125
+    },
+    {
+      "Date": 45519,
+      "Exchange rate": 13834.8974609375
+    },
+    {
+      "Date": 45520,
+      "Exchange rate": 13834.83984375
+    },
+    {
+      "Date": 45521,
+      "Exchange rate": 13834.7841796875
+    },
+    {
+      "Date": 45522,
+      "Exchange rate": 13834.7275390625
+    },
+    {
+      "Date": 45523,
+      "Exchange rate": 13834.6728515625
+    },
+    {
+      "Date": 45524,
+      "Exchange rate": 13834.6171875
+    },
+    {
+      "Date": 45525,
+      "Exchange rate": 13834.5634765625
+    },
+    {
+      "Date": 45526,
+      "Exchange rate": 13834.509765625
+    },
+    {
+      "Date": 45527,
+      "Exchange rate": 13834.4560546875
+    },
+    {
+      "Date": 45528,
+      "Exchange rate": 13834.4033203125
+    },
+    {
+      "Date": 45529,
+      "Exchange rate": 13834.3505859375
+    },
+    {
+      "Date": 45530,
+      "Exchange rate": 13834.2998046875
+    },
+    {
+      "Date": 45531,
+      "Exchange rate": 13834.2490234375
+    },
+    {
+      "Date": 45532,
+      "Exchange rate": 13834.1982421875
+    },
+    {
+      "Date": 45533,
+      "Exchange rate": 13834.1484375
+    },
+    {
+      "Date": 45534,
+      "Exchange rate": 13834.0986328125
+    },
+    {
+      "Date": 45535,
+      "Exchange rate": 13834.0498046875
+    },
+    {
+      "Date": 45536,
+      "Exchange rate": 13834.001953125
+    },
+    {
+      "Date": 45537,
+      "Exchange rate": 13833.9541015625
+    },
+    {
+      "Date": 45538,
+      "Exchange rate": 13833.90625
+    },
+    {
+      "Date": 45539,
+      "Exchange rate": 13833.859375
+    },
+    {
+      "Date": 45540,
+      "Exchange rate": 13833.8125
+    },
+    {
+      "Date": 45541,
+      "Exchange rate": 13833.7666015625
+    },
+    {
+      "Date": 45542,
+      "Exchange rate": 13833.7216796875
+    },
+    {
+      "Date": 45543,
+      "Exchange rate": 13833.6767578125
+    },
+    {
+      "Date": 45544,
+      "Exchange rate": 13833.6318359375
+    },
+    {
+      "Date": 45545,
+      "Exchange rate": 13833.587890625
+    },
+    {
+      "Date": 45546,
+      "Exchange rate": 13833.544921875
+    },
+    {
+      "Date": 45547,
+      "Exchange rate": 13833.501953125
+    },
+    {
+      "Date": 45548,
+      "Exchange rate": 13833.458984375
+    },
+    {
+      "Date": 45549,
+      "Exchange rate": 13833.4169921875
+    },
+    {
+      "Date": 45550,
+      "Exchange rate": 13833.3759765625
+    },
+    {
+      "Date": 45551,
+      "Exchange rate": 13833.333984375
+    },
+    {
+      "Date": 45552,
+      "Exchange rate": 13833.29296875
+    },
+    {
+      "Date": 45553,
+      "Exchange rate": 13833.2529296875
+    },
+    {
+      "Date": 45554,
+      "Exchange rate": 13833.212890625
+    },
+    {
+      "Date": 45555,
+      "Exchange rate": 13833.1728515625
+    },
+    {
+      "Date": 45556,
+      "Exchange rate": 13833.1337890625
+    },
+    {
+      "Date": 45557,
+      "Exchange rate": 13833.095703125
+    },
+    {
+      "Date": 45558,
+      "Exchange rate": 13833.056640625
+    },
+    {
+      "Date": 45559,
+      "Exchange rate": 13833.01953125
+    },
+    {
+      "Date": 45560,
+      "Exchange rate": 13832.982421875
+    },
+    {
+      "Date": 45561,
+      "Exchange rate": 13832.9453125
+    },
+    {
+      "Date": 45562,
+      "Exchange rate": 13832.908203125
+    },
+    {
+      "Date": 45563,
+      "Exchange rate": 13832.8720703125
+    },
+    {
+      "Date": 45564,
+      "Exchange rate": 13832.8369140625
+    },
+    {
+      "Date": 45565,
+      "Exchange rate": 13832.80078125
+    },
+    {
+      "Date": 45566,
+      "Exchange rate": 13832.765625
+    },
+    {
+      "Date": 45567,
+      "Exchange rate": 13832.732421875
+    },
+    {
+      "Date": 45568,
+      "Exchange rate": 13832.697265625
+    },
+    {
+      "Date": 45569,
+      "Exchange rate": 13832.6640625
+    },
+    {
+      "Date": 45570,
+      "Exchange rate": 13832.6298828125
+    },
+    {
+      "Date": 45571,
+      "Exchange rate": 13832.5966796875
+    },
+    {
+      "Date": 45572,
+      "Exchange rate": 13832.5634765625
+    },
+    {
+      "Date": 45573,
+      "Exchange rate": 13832.5322265625
+    },
+    {
+      "Date": 45574,
+      "Exchange rate": 13832.5
+    },
+    {
+      "Date": 45575,
+      "Exchange rate": 13832.4677734375
+    },
+    {
+      "Date": 45576,
+      "Exchange rate": 13832.4365234375
+    },
+    {
+      "Date": 45577,
+      "Exchange rate": 13832.4052734375
+    },
+    {
+      "Date": 45578,
+      "Exchange rate": 13832.375
+    },
+    {
+      "Date": 45579,
+      "Exchange rate": 13832.3447265625
+    },
+    {
+      "Date": 45580,
+      "Exchange rate": 13832.314453125
+    },
+    {
+      "Date": 45581,
+      "Exchange rate": 13832.28515625
+    },
+    {
+      "Date": 45582,
+      "Exchange rate": 13832.255859375
+    },
+    {
+      "Date": 45583,
+      "Exchange rate": 13832.2265625
+    },
+    {
+      "Date": 45584,
+      "Exchange rate": 13832.1982421875
+    },
+    {
+      "Date": 45585,
+      "Exchange rate": 13832.169921875
+    },
+    {
+      "Date": 45586,
+      "Exchange rate": 13832.142578125
+    },
+    {
+      "Date": 45587,
+      "Exchange rate": 13832.1142578125
+    },
+    {
+      "Date": 45588,
+      "Exchange rate": 13832.087890625
+    },
+    {
+      "Date": 45589,
+      "Exchange rate": 13832.060546875
+    },
+    {
+      "Date": 45590,
+      "Exchange rate": 13832.033203125
+    },
+    {
+      "Date": 45591,
+      "Exchange rate": 13832.0078125
+    },
+    {
+      "Date": 45592,
+      "Exchange rate": 13831.9814453125
+    },
+    {
+      "Date": 45593,
+      "Exchange rate": 13831.9560546875
+    },
+    {
+      "Date": 45594,
+      "Exchange rate": 13831.9306640625
+    },
+    {
+      "Date": 45595,
+      "Exchange rate": 13831.90625
+    },
+    {
+      "Date": 45596,
+      "Exchange rate": 13831.880859375
+    },
+    {
+      "Date": 45597,
+      "Exchange rate": 13831.857421875
+    },
+    {
+      "Date": 45598,
+      "Exchange rate": 13831.83203125
+    },
+    {
+      "Date": 45599,
+      "Exchange rate": 13831.8076171875
+    },
+    {
+      "Date": 45600,
+      "Exchange rate": 13831.7841796875
+    },
+    {
+      "Date": 45601,
+      "Exchange rate": 13831.759765625
+    },
+    {
+      "Date": 45602,
+      "Exchange rate": 13831.736328125
+    },
+    {
+      "Date": 45603,
+      "Exchange rate": 13831.712890625
+    },
+    {
+      "Date": 45604,
+      "Exchange rate": 13831.689453125
+    },
+    {
+      "Date": 45605,
+      "Exchange rate": 13831.666015625
+    },
+    {
+      "Date": 45606,
+      "Exchange rate": 13831.642578125
+    },
+    {
+      "Date": 45607,
+      "Exchange rate": 13831.6201171875
+    },
+    {
+      "Date": 45608,
+      "Exchange rate": 13831.59765625
+    },
+    {
+      "Date": 45609,
+      "Exchange rate": 13831.57421875
+    },
+    {
+      "Date": 45610,
+      "Exchange rate": 13831.5517578125
+    },
+    {
+      "Date": 45611,
+      "Exchange rate": 13831.529296875
+    },
+    {
+      "Date": 45612,
+      "Exchange rate": 13831.5068359375
+    },
+    {
+      "Date": 45613,
+      "Exchange rate": 13831.484375
+    },
+    {
+      "Date": 45614,
+      "Exchange rate": 13831.4619140625
+    },
+    {
+      "Date": 45615,
+      "Exchange rate": 13831.4404296875
+    },
+    {
+      "Date": 45616,
+      "Exchange rate": 13831.41796875
+    },
+    {
+      "Date": 45617,
+      "Exchange rate": 13831.396484375
+    },
+    {
+      "Date": 45618,
+      "Exchange rate": 13831.375
+    },
+    {
+      "Date": 45619,
+      "Exchange rate": 13831.353515625
+    },
+    {
+      "Date": 45620,
+      "Exchange rate": 13831.3330078125
+    },
+    {
+      "Date": 45621,
+      "Exchange rate": 13831.3115234375
+    },
+    {
+      "Date": 45622,
+      "Exchange rate": 13831.2900390625
+    },
+    {
+      "Date": 45623,
+      "Exchange rate": 13831.2685546875
+    },
+    {
+      "Date": 45624,
+      "Exchange rate": 13831.248046875
+    },
+    {
+      "Date": 45625,
+      "Exchange rate": 13831.2275390625
+    },
+    {
+      "Date": 45626,
+      "Exchange rate": 13831.20703125
+    },
+    {
+      "Date": 45627,
+      "Exchange rate": 13831.185546875
+    },
+    {
+      "Date": 45628,
+      "Exchange rate": 13831.1650390625
+    },
+    {
+      "Date": 45629,
+      "Exchange rate": 13831.1455078125
+    },
+    {
+      "Date": 45630,
+      "Exchange rate": 13831.125
+    },
+    {
+      "Date": 45631,
+      "Exchange rate": 13831.1044921875
+    },
+    {
+      "Date": 45632,
+      "Exchange rate": 13831.0849609375
+    },
+    {
+      "Date": 45633,
+      "Exchange rate": 13831.064453125
+    },
+    {
+      "Date": 45634,
+      "Exchange rate": 13831.0458984375
+    },
+    {
+      "Date": 45635,
+      "Exchange rate": 13831.025390625
+    },
+    {
+      "Date": 45636,
+      "Exchange rate": 13831.005859375
+    },
+    {
+      "Date": 45637,
+      "Exchange rate": 13830.9873046875
+    },
+    {
+      "Date": 45638,
+      "Exchange rate": 13830.9677734375
+    },
+    {
+      "Date": 45639,
+      "Exchange rate": 13830.94921875
+    },
+    {
+      "Date": 45640,
+      "Exchange rate": 13830.9287109375
+    },
+    {
+      "Date": 45641,
+      "Exchange rate": 13830.91015625
+    },
+    {
+      "Date": 45642,
+      "Exchange rate": 13830.8916015625
+    },
+    {
+      "Date": 45643,
+      "Exchange rate": 13830.8720703125
+    },
+    {
+      "Date": 45644,
+      "Exchange rate": 13830.853515625
+    },
+    {
+      "Date": 45645,
+      "Exchange rate": 13830.8349609375
+    },
+    {
+      "Date": 45646,
+      "Exchange rate": 13830.81640625
+    },
+    {
+      "Date": 45647,
+      "Exchange rate": 13830.7978515625
+    },
+    {
+      "Date": 45648,
+      "Exchange rate": 13830.779296875
+    },
+    {
+      "Date": 45649,
+      "Exchange rate": 13830.76171875
+    },
+    {
+      "Date": 45650,
+      "Exchange rate": 13830.7431640625
+    },
+    {
+      "Date": 45651,
+      "Exchange rate": 13830.7255859375
+    },
+    {
+      "Date": 45652,
+      "Exchange rate": 13830.70703125
+    },
+    {
+      "Date": 45653,
+      "Exchange rate": 13830.6904296875
+    },
+    {
+      "Date": 45654,
+      "Exchange rate": 13830.671875
+    },
+    {
+      "Date": 45655,
+      "Exchange rate": 13830.654296875
+    },
+    {
+      "Date": 45656,
+      "Exchange rate": 13830.63671875
+    },
+    {
+      "Date": 45657,
+      "Exchange rate": 13830.619140625
+    },
+    {
+      "Date": 45658,
+      "Exchange rate": 13830.6025390625
+    },
+    {
+      "Date": 45659,
+      "Exchange rate": 13830.5849609375
+    },
+    {
+      "Date": 45660,
+      "Exchange rate": 13830.5673828125
+    },
+    {
+      "Date": 45661,
+      "Exchange rate": 13830.55078125
+    },
+    {
+      "Date": 45662,
+      "Exchange rate": 13830.533203125
+    },
+    {
+      "Date": 45663,
+      "Exchange rate": 13830.5166015625
+    },
+    {
+      "Date": 45664,
+      "Exchange rate": 13830.5
+    },
+    {
+      "Date": 45665,
+      "Exchange rate": 13830.4833984375
+    },
+    {
+      "Date": 45666,
+      "Exchange rate": 13830.466796875
+    },
+    {
+      "Date": 45667,
+      "Exchange rate": 13830.4501953125
+    },
+    {
+      "Date": 45668,
+      "Exchange rate": 13830.43359375
+    },
+    {
+      "Date": 45669,
+      "Exchange rate": 13830.4169921875
+    },
+    {
+      "Date": 45670,
+      "Exchange rate": 13830.400390625
+    },
+    {
+      "Date": 45671,
+      "Exchange rate": 13830.384765625
+    },
+    {
+      "Date": 45672,
+      "Exchange rate": 13830.3681640625
+    },
+    {
+      "Date": 45673,
+      "Exchange rate": 13830.3525390625
+    },
+    {
+      "Date": 45674,
+      "Exchange rate": 13830.3369140625
+    },
+    {
+      "Date": 45675,
+      "Exchange rate": 13830.3212890625
+    },
+    {
+      "Date": 45676,
+      "Exchange rate": 13830.3046875
+    },
+    {
+      "Date": 45677,
+      "Exchange rate": 13830.2880859375
+    },
+    {
+      "Date": 45678,
+      "Exchange rate": 13830.2734375
+    },
+    {
+      "Date": 45679,
+      "Exchange rate": 13830.2578125
+    },
+    {
+      "Date": 45680,
+      "Exchange rate": 13830.2421875
+    },
+    {
+      "Date": 45681,
+      "Exchange rate": 13830.2265625
+    },
+    {
+      "Date": 45682,
+      "Exchange rate": 13830.2109375
+    },
+    {
+      "Date": 45683,
+      "Exchange rate": 13830.1962890625
+    },
+    {
+      "Date": 45684,
+      "Exchange rate": 13830.1806640625
+    },
+    {
+      "Date": 45685,
+      "Exchange rate": 13830.166015625
+    },
+    {
+      "Date": 45686,
+      "Exchange rate": 13830.150390625
+    },
+    {
+      "Date": 45687,
+      "Exchange rate": 13830.1357421875
+    },
+    {
+      "Date": 45688,
+      "Exchange rate": 13830.12109375
+    },
+    {
+      "Date": 45689,
+      "Exchange rate": 13830.1064453125
+    },
+    {
+      "Date": 45690,
+      "Exchange rate": 13830.0908203125
+    },
+    {
+      "Date": 45691,
+      "Exchange rate": 13830.0771484375
+    },
+    {
+      "Date": 45692,
+      "Exchange rate": 13830.0625
+    },
+    {
+      "Date": 45693,
+      "Exchange rate": 13830.0478515625
+    },
+    {
+      "Date": 45694,
+      "Exchange rate": 13830.033203125
+    },
+    {
+      "Date": 45695,
+      "Exchange rate": 13830.0185546875
+    },
+    {
+      "Date": 45696,
+      "Exchange rate": 13830.0048828125
+    },
+    {
+      "Date": 45697,
+      "Exchange rate": 13829.9912109375
+    },
+    {
+      "Date": 45698,
+      "Exchange rate": 13829.9765625
+    },
+    {
+      "Date": 45699,
+      "Exchange rate": 13829.962890625
+    },
+    {
+      "Date": 45700,
+      "Exchange rate": 13829.9482421875
+    },
+    {
+      "Date": 45701,
+      "Exchange rate": 13829.9345703125
+    },
+    {
+      "Date": 45702,
+      "Exchange rate": 13829.9208984375
+    },
+    {
+      "Date": 45703,
+      "Exchange rate": 13829.9072265625
+    },
+    {
+      "Date": 45704,
+      "Exchange rate": 13829.8935546875
+    },
+    {
+      "Date": 45705,
+      "Exchange rate": 13829.8798828125
+    },
+    {
+      "Date": 45706,
+      "Exchange rate": 13829.8662109375
+    },
+    {
+      "Date": 45707,
+      "Exchange rate": 13829.853515625
+    },
+    {
+      "Date": 45708,
+      "Exchange rate": 13829.83984375
+    },
+    {
+      "Date": 45709,
+      "Exchange rate": 13829.826171875
+    },
+    {
+      "Date": 45710,
+      "Exchange rate": 13829.8134765625
+    },
+    {
+      "Date": 45711,
+      "Exchange rate": 13829.7998046875
+    },
+    {
+      "Date": 45712,
+      "Exchange rate": 13829.787109375
+    },
+    {
+      "Date": 45713,
+      "Exchange rate": 13829.7744140625
+    },
+    {
+      "Date": 45714,
+      "Exchange rate": 13829.7607421875
+    },
+    {
+      "Date": 45715,
+      "Exchange rate": 13829.7490234375
+    },
+    {
+      "Date": 45716,
+      "Exchange rate": 13829.7353515625
+    },
+    {
+      "Date": 45717,
+      "Exchange rate": 13829.72265625
+    },
+    {
+      "Date": 45718,
+      "Exchange rate": 13829.7099609375
+    },
+    {
+      "Date": 45719,
+      "Exchange rate": 13829.6982421875
+    },
+    {
+      "Date": 45720,
+      "Exchange rate": 13829.6845703125
+    },
+    {
+      "Date": 45721,
+      "Exchange rate": 13829.671875
+    },
+    {
+      "Date": 45722,
+      "Exchange rate": 13829.66015625
+    },
+    {
+      "Date": 45723,
+      "Exchange rate": 13829.6484375
+    },
+    {
+      "Date": 45724,
+      "Exchange rate": 13829.6357421875
+    },
+    {
+      "Date": 45725,
+      "Exchange rate": 13829.623046875
+    },
+    {
+      "Date": 45726,
+      "Exchange rate": 13829.611328125
+    },
+    {
+      "Date": 45727,
+      "Exchange rate": 13829.599609375
+    },
+    {
+      "Date": 45728,
+      "Exchange rate": 13829.587890625
+    },
+    {
+      "Date": 45729,
+      "Exchange rate": 13829.5751953125
+    },
+    {
+      "Date": 45730,
+      "Exchange rate": 13829.5634765625
+    },
+    {
+      "Date": 45731,
+      "Exchange rate": 13829.5517578125
+    },
+    {
+      "Date": 45732,
+      "Exchange rate": 13829.5400390625
+    },
+    {
+      "Date": 45733,
+      "Exchange rate": 13829.529296875
+    },
+    {
+      "Date": 45734,
+      "Exchange rate": 13829.517578125
+    },
+    {
+      "Date": 45735,
+      "Exchange rate": 13829.505859375
+    },
+    {
+      "Date": 45736,
+      "Exchange rate": 13829.494140625
+    },
+    {
+      "Date": 45737,
+      "Exchange rate": 13829.482421875
+    },
+    {
+      "Date": 45738,
+      "Exchange rate": 13829.4716796875
+    },
+    {
+      "Date": 45739,
+      "Exchange rate": 13829.4599609375
+    },
+    {
+      "Date": 45740,
+      "Exchange rate": 13829.4482421875
+    },
+    {
+      "Date": 45741,
+      "Exchange rate": 13829.4375
+    },
+    {
+      "Date": 45742,
+      "Exchange rate": 13829.4267578125
+    },
+    {
+      "Date": 45743,
+      "Exchange rate": 13829.4150390625
+    },
+    {
+      "Date": 45744,
+      "Exchange rate": 13829.404296875
+    },
+    {
+      "Date": 45745,
+      "Exchange rate": 13829.3935546875
+    },
+    {
+      "Date": 45746,
+      "Exchange rate": 13829.3828125
+    },
+    {
+      "Date": 45747,
+      "Exchange rate": 13829.3720703125
+    },
+    {
+      "Date": 45748,
+      "Exchange rate": 13829.361328125
+    },
+    {
+      "Date": 45749,
+      "Exchange rate": 13829.3505859375
+    },
+    {
+      "Date": 45750,
+      "Exchange rate": 13829.33984375
+    },
+    {
+      "Date": 45751,
+      "Exchange rate": 13829.3291015625
+    },
+    {
+      "Date": 45752,
+      "Exchange rate": 13829.3193359375
+    },
+    {
+      "Date": 45753,
+      "Exchange rate": 13829.30859375
+    },
+    {
+      "Date": 45754,
+      "Exchange rate": 13829.2978515625
+    },
+    {
+      "Date": 45755,
+      "Exchange rate": 13829.287109375
+    },
+    {
+      "Date": 45756,
+      "Exchange rate": 13829.2763671875
+    },
+    {
+      "Date": 45757,
+      "Exchange rate": 13829.2666015625
+    },
+    {
+      "Date": 45758,
+      "Exchange rate": 13829.2568359375
+    },
+    {
+      "Date": 45759,
+      "Exchange rate": 13829.24609375
+    },
+    {
+      "Date": 45760,
+      "Exchange rate": 13829.236328125
+    },
+    {
+      "Date": 45761,
+      "Exchange rate": 13829.2265625
+    },
+    {
+      "Date": 45762,
+      "Exchange rate": 13829.2158203125
+    },
+    {
+      "Date": 45763,
+      "Exchange rate": 13829.2060546875
+    },
+    {
+      "Date": 45764,
+      "Exchange rate": 13829.1962890625
+    },
+    {
+      "Date": 45765,
+      "Exchange rate": 13829.1865234375
+    },
+    {
+      "Date": 45766,
+      "Exchange rate": 13829.1767578125
+    },
+    {
+      "Date": 45767,
+      "Exchange rate": 13829.1669921875
+    },
+    {
+      "Date": 45768,
+      "Exchange rate": 13829.1572265625
+    },
+    {
+      "Date": 45769,
+      "Exchange rate": 13829.1484375
+    },
+    {
+      "Date": 45770,
+      "Exchange rate": 13829.1376953125
+    },
+    {
+      "Date": 45771,
+      "Exchange rate": 13829.12890625
+    },
+    {
+      "Date": 45772,
+      "Exchange rate": 13829.119140625
+    },
+    {
+      "Date": 45773,
+      "Exchange rate": 13829.1103515625
+    },
+    {
+      "Date": 45774,
+      "Exchange rate": 13829.1005859375
+    },
+    {
+      "Date": 45775,
+      "Exchange rate": 13829.091796875
+    },
+    {
+      "Date": 45776,
+      "Exchange rate": 13829.08203125
+    },
+    {
+      "Date": 45777,
+      "Exchange rate": 13829.0732421875
+    },
+    {
+      "Date": 45778,
+      "Exchange rate": 13829.064453125
+    },
+    {
+      "Date": 45779,
+      "Exchange rate": 13829.0556640625
+    },
+    {
+      "Date": 45780,
+      "Exchange rate": 13829.0458984375
+    },
+    {
+      "Date": 45781,
+      "Exchange rate": 13829.037109375
+    },
+    {
+      "Date": 45782,
+      "Exchange rate": 13829.0283203125
+    },
+    {
+      "Date": 45783,
+      "Exchange rate": 13829.01953125
+    },
+    {
+      "Date": 45784,
+      "Exchange rate": 13829.0107421875
+    },
+    {
+      "Date": 45785,
+      "Exchange rate": 13829.0009765625
+    },
+    {
+      "Date": 45786,
+      "Exchange rate": 13828.9931640625
+    },
+    {
+      "Date": 45787,
+      "Exchange rate": 13828.984375
+    },
+    {
+      "Date": 45788,
+      "Exchange rate": 13828.9755859375
+    },
+    {
+      "Date": 45789,
+      "Exchange rate": 13828.9677734375
+    },
+    {
+      "Date": 45790,
+      "Exchange rate": 13828.9580078125
+    },
+    {
+      "Date": 45791,
+      "Exchange rate": 13828.9501953125
+    },
+    {
+      "Date": 45792,
+      "Exchange rate": 13828.94140625
+    },
+    {
+      "Date": 45793,
+      "Exchange rate": 13828.93359375
+    },
+    {
+      "Date": 45794,
+      "Exchange rate": 13828.9248046875
+    },
+    {
+      "Date": 45795,
+      "Exchange rate": 13828.9169921875
+    },
+    {
+      "Date": 45796,
+      "Exchange rate": 13828.908203125
+    },
+    {
+      "Date": 45797,
+      "Exchange rate": 13828.900390625
+    },
+    {
+      "Date": 45798,
+      "Exchange rate": 13828.8916015625
+    },
+    {
+      "Date": 45799,
+      "Exchange rate": 13828.8837890625
+    },
+    {
+      "Date": 45800,
+      "Exchange rate": 13828.875
+    },
+    {
+      "Date": 45801,
+      "Exchange rate": 13828.8681640625
+    },
+    {
+      "Date": 45802,
+      "Exchange rate": 13828.859375
+    },
+    {
+      "Date": 45803,
+      "Exchange rate": 13828.8515625
+    },
+    {
+      "Date": 45804,
+      "Exchange rate": 13828.84375
+    },
+    {
+      "Date": 45805,
+      "Exchange rate": 13828.8349609375
+    },
+    {
+      "Date": 45806,
+      "Exchange rate": 13828.828125
+    },
+    {
+      "Date": 45807,
+      "Exchange rate": 13828.8193359375
+    },
+    {
+      "Date": 45808,
+      "Exchange rate": 13828.8125
+    },
+    {
+      "Date": 45809,
+      "Exchange rate": 13828.8046875
+    },
+    {
+      "Date": 45810,
+      "Exchange rate": 13828.796875
+    },
+    {
+      "Date": 45811,
+      "Exchange rate": 13828.7890625
+    },
+    {
+      "Date": 45812,
+      "Exchange rate": 13828.78125
+    },
+    {
+      "Date": 45813,
+      "Exchange rate": 13828.7744140625
+    },
+    {
+      "Date": 45814,
+      "Exchange rate": 13828.7666015625
+    },
+    {
+      "Date": 45815,
+      "Exchange rate": 13828.7587890625
+    },
+    {
+      "Date": 45816,
+      "Exchange rate": 13828.751953125
+    },
+    {
+      "Date": 45817,
+      "Exchange rate": 13828.744140625
+    },
+    {
+      "Date": 45818,
+      "Exchange rate": 13828.736328125
+    },
+    {
+      "Date": 45819,
+      "Exchange rate": 13828.7294921875
+    },
+    {
+      "Date": 45820,
+      "Exchange rate": 13828.7216796875
+    },
+    {
+      "Date": 45821,
+      "Exchange rate": 13828.71484375
+    },
+    {
+      "Date": 45822,
+      "Exchange rate": 13828.7080078125
+    },
+    {
+      "Date": 45823,
+      "Exchange rate": 13828.7001953125
+    },
+    {
+      "Date": 45824,
+      "Exchange rate": 13828.693359375
+    },
+    {
+      "Date": 45825,
+      "Exchange rate": 13828.6865234375
+    },
+    {
+      "Date": 45826,
+      "Exchange rate": 13828.6796875
+    },
+    {
+      "Date": 45827,
+      "Exchange rate": 13828.671875
+    },
+    {
+      "Date": 45828,
+      "Exchange rate": 13828.6650390625
+    },
+    {
+      "Date": 45829,
+      "Exchange rate": 13828.658203125
+    },
+    {
+      "Date": 45830,
+      "Exchange rate": 13828.6513671875
+    },
+    {
+      "Date": 45831,
+      "Exchange rate": 13828.64453125
+    },
+    {
+      "Date": 45832,
+      "Exchange rate": 13828.6376953125
+    },
+    {
+      "Date": 45833,
+      "Exchange rate": 13828.630859375
+    },
+    {
+      "Date": 45834,
+      "Exchange rate": 13828.6240234375
+    },
+    {
+      "Date": 45835,
+      "Exchange rate": 13828.6171875
+    },
+    {
+      "Date": 45836,
+      "Exchange rate": 13828.6103515625
+    },
+    {
+      "Date": 45837,
+      "Exchange rate": 13828.6044921875
+    },
+    {
+      "Date": 45838,
+      "Exchange rate": 13828.59765625
+    },
+    {
+      "Date": 45839,
+      "Exchange rate": 13828.5908203125
+    },
+    {
+      "Date": 45840,
+      "Exchange rate": 13828.583984375
+    },
+    {
+      "Date": 45841,
+      "Exchange rate": 13828.5771484375
+    },
+    {
+      "Date": 45842,
+      "Exchange rate": 13828.5712890625
+    },
+    {
+      "Date": 45843,
+      "Exchange rate": 13828.564453125
+    },
+    {
+      "Date": 45844,
+      "Exchange rate": 13828.5576171875
+    },
+    {
+      "Date": 45845,
+      "Exchange rate": 13828.5517578125
+    },
+    {
+      "Date": 45846,
+      "Exchange rate": 13828.544921875
+    },
+    {
+      "Date": 45847,
+      "Exchange rate": 13828.5390625
+    },
+    {
+      "Date": 45848,
+      "Exchange rate": 13828.5322265625
+    },
+    {
+      "Date": 45849,
+      "Exchange rate": 13828.5263671875
+    },
+    {
+      "Date": 45850,
+      "Exchange rate": 13828.5205078125
+    },
+    {
+      "Date": 45851,
+      "Exchange rate": 13828.513671875
+    },
+    {
+      "Date": 45852,
+      "Exchange rate": 13828.5078125
+    },
+    {
+      "Date": 45853,
+      "Exchange rate": 13828.5009765625
+    },
+    {
+      "Date": 45854,
+      "Exchange rate": 13828.4951171875
+    },
+    {
+      "Date": 45855,
+      "Exchange rate": 13828.4892578125
+    },
+    {
+      "Date": 45856,
+      "Exchange rate": 13828.4833984375
+    },
+    {
+      "Date": 45857,
+      "Exchange rate": 13828.4775390625
+    },
+    {
+      "Date": 45858,
+      "Exchange rate": 13828.4716796875
+    },
+    {
+      "Date": 45859,
+      "Exchange rate": 13828.4658203125
+    },
+    {
+      "Date": 45860,
+      "Exchange rate": 13828.4599609375
+    },
+    {
+      "Date": 45861,
+      "Exchange rate": 13828.4541015625
+    },
+    {
+      "Date": 45862,
+      "Exchange rate": 13828.4482421875
+    },
+    {
+      "Date": 45863,
+      "Exchange rate": 13828.4423828125
+    },
+    {
+      "Date": 45864,
+      "Exchange rate": 13828.4365234375
+    },
+    {
+      "Date": 45865,
+      "Exchange rate": 13828.4306640625
+    },
+    {
+      "Date": 45866,
+      "Exchange rate": 13828.4248046875
+    },
+    {
+      "Date": 45867,
+      "Exchange rate": 13828.4189453125
+    },
+    {
+      "Date": 45868,
+      "Exchange rate": 13828.4130859375
+    },
+    {
+      "Date": 45869,
+      "Exchange rate": 13828.408203125
+    },
+    {
+      "Date": 45870,
+      "Exchange rate": 13828.40234375
+    },
+    {
+      "Date": 45871,
+      "Exchange rate": 13828.396484375
+    },
+    {
+      "Date": 45872,
+      "Exchange rate": 13828.3916015625
+    },
+    {
+      "Date": 45873,
+      "Exchange rate": 13828.3857421875
+    },
+    {
+      "Date": 45874,
+      "Exchange rate": 13828.3798828125
+    },
+    {
+      "Date": 45875,
+      "Exchange rate": 13828.375
+    },
+    {
+      "Date": 45876,
+      "Exchange rate": 13828.3701171875
+    },
+    {
+      "Date": 45877,
+      "Exchange rate": 13828.3642578125
+    },
+    {
+      "Date": 45878,
+      "Exchange rate": 13828.3583984375
+    },
+    {
+      "Date": 45879,
+      "Exchange rate": 13828.353515625
+    },
+    {
+      "Date": 45880,
+      "Exchange rate": 13828.3486328125
+    },
+    {
+      "Date": 45881,
+      "Exchange rate": 13828.3427734375
+    },
+    {
+      "Date": 45882,
+      "Exchange rate": 13828.337890625
+    },
+    {
+      "Date": 45883,
+      "Exchange rate": 13828.33203125
+    },
+    {
+      "Date": 45884,
+      "Exchange rate": 13828.3271484375
+    },
+    {
+      "Date": 45885,
+      "Exchange rate": 13828.322265625
+    },
+    {
+      "Date": 45886,
+      "Exchange rate": 13828.3173828125
+    },
+    {
+      "Date": 45887,
+      "Exchange rate": 13828.3115234375
+    },
+    {
+      "Date": 45888,
+      "Exchange rate": 13828.306640625
+    },
+    {
+      "Date": 45889,
+      "Exchange rate": 13828.3017578125
+    },
+    {
+      "Date": 45890,
+      "Exchange rate": 13828.2958984375
+    },
+    {
+      "Date": 45891,
+      "Exchange rate": 13828.291015625
+    },
+    {
+      "Date": 45892,
+      "Exchange rate": 13828.2861328125
+    },
+    {
+      "Date": 45893,
+      "Exchange rate": 13828.28125
+    },
+    {
+      "Date": 45894,
+      "Exchange rate": 13828.2763671875
+    },
+    {
+      "Date": 45895,
+      "Exchange rate": 13828.271484375
+    },
+    {
+      "Date": 45896,
+      "Exchange rate": 13828.2666015625
+    },
+    {
+      "Date": 45897,
+      "Exchange rate": 13828.26171875
+    },
+    {
+      "Date": 45898,
+      "Exchange rate": 13828.2568359375
+    },
+    {
+      "Date": 45899,
+      "Exchange rate": 13828.251953125
+    },
+    {
+      "Date": 45900,
+      "Exchange rate": 13828.24609375
+    },
+    {
+      "Date": 45901,
+      "Exchange rate": 13828.2421875
+    },
+    {
+      "Date": 45902,
+      "Exchange rate": 13828.2373046875
+    },
+    {
+      "Date": 45903,
+      "Exchange rate": 13828.232421875
+    },
+    {
+      "Date": 45904,
+      "Exchange rate": 13828.228515625
+    },
+    {
+      "Date": 45905,
+      "Exchange rate": 13828.2236328125
+    },
+    {
+      "Date": 45906,
+      "Exchange rate": 13828.21875
+    },
+    {
+      "Date": 45907,
+      "Exchange rate": 13828.2138671875
+    },
+    {
+      "Date": 45908,
+      "Exchange rate": 13828.208984375
+    },
+    {
+      "Date": 45909,
+      "Exchange rate": 13828.205078125
+    },
+    {
+      "Date": 45910,
+      "Exchange rate": 13828.2001953125
+    },
+    {
+      "Date": 45911,
+      "Exchange rate": 13828.1962890625
+    },
+    {
+      "Date": 45912,
+      "Exchange rate": 13828.19140625
+    },
+    {
+      "Date": 45913,
+      "Exchange rate": 13828.1865234375
+    },
+    {
+      "Date": 45914,
+      "Exchange rate": 13828.1826171875
+    },
+    {
+      "Date": 45915,
+      "Exchange rate": 13828.177734375
+    },
+    {
+      "Date": 45916,
+      "Exchange rate": 13828.173828125
+    },
+    {
+      "Date": 45917,
+      "Exchange rate": 13828.1689453125
+    },
+    {
+      "Date": 45918,
+      "Exchange rate": 13828.1650390625
+    },
+    {
+      "Date": 45919,
+      "Exchange rate": 13828.1611328125
+    },
+    {
+      "Date": 45920,
+      "Exchange rate": 13828.1572265625
+    },
+    {
+      "Date": 45921,
+      "Exchange rate": 13828.15234375
+    },
+    {
+      "Date": 45922,
+      "Exchange rate": 13828.1474609375
+    },
+    {
+      "Date": 45923,
+      "Exchange rate": 13828.1435546875
+    },
+    {
+      "Date": 45924,
+      "Exchange rate": 13828.1396484375
+    },
+    {
+      "Date": 45925,
+      "Exchange rate": 13828.1357421875
+    },
+    {
+      "Date": 45926,
+      "Exchange rate": 13828.130859375
+    },
+    {
+      "Date": 45927,
+      "Exchange rate": 13828.126953125
+    },
+    {
+      "Date": 45928,
+      "Exchange rate": 13828.123046875
+    },
+    {
+      "Date": 45929,
+      "Exchange rate": 13828.119140625
+    },
+    {
+      "Date": 45930,
+      "Exchange rate": 13828.1142578125
+    },
+    {
+      "Date": 45931,
+      "Exchange rate": 13828.1103515625
+    },
+    {
+      "Date": 45932,
+      "Exchange rate": 13828.1064453125
+    },
+    {
+      "Date": 45933,
+      "Exchange rate": 13828.103515625
+    },
+    {
+      "Date": 45934,
+      "Exchange rate": 13828.0986328125
+    },
+    {
+      "Date": 45935,
+      "Exchange rate": 13828.0947265625
+    },
+    {
+      "Date": 45936,
+      "Exchange rate": 13828.0908203125
+    },
+    {
+      "Date": 45937,
+      "Exchange rate": 13828.0869140625
+    },
+    {
+      "Date": 45938,
+      "Exchange rate": 13828.0830078125
+    },
+    {
+      "Date": 45939,
+      "Exchange rate": 13828.0791015625
+    },
+    {
+      "Date": 45940,
+      "Exchange rate": 13828.076171875
+    },
+    {
+      "Date": 45941,
+      "Exchange rate": 13828.0712890625
+    },
+    {
+      "Date": 45942,
+      "Exchange rate": 13828.0673828125
+    },
+    {
+      "Date": 45943,
+      "Exchange rate": 13828.064453125
+    },
+    {
+      "Date": 45944,
+      "Exchange rate": 13828.0595703125
+    },
+    {
+      "Date": 45945,
+      "Exchange rate": 13828.056640625
+    },
+    {
+      "Date": 45946,
+      "Exchange rate": 13828.052734375
+    },
+    {
+      "Date": 45947,
+      "Exchange rate": 13828.048828125
+    },
+    {
+      "Date": 45948,
+      "Exchange rate": 13828.044921875
+    },
+    {
+      "Date": 45949,
+      "Exchange rate": 13828.0419921875
+    },
+    {
+      "Date": 45950,
+      "Exchange rate": 13828.037109375
+    },
+    {
+      "Date": 45951,
+      "Exchange rate": 13828.0341796875
+    },
+    {
+      "Date": 45952,
+      "Exchange rate": 13828.0302734375
+    },
+    {
+      "Date": 45953,
+      "Exchange rate": 13828.0263671875
+    },
+    {
+      "Date": 45954,
+      "Exchange rate": 13828.0234375
+    },
+    {
+      "Date": 45955,
+      "Exchange rate": 13828.01953125
+    },
+    {
+      "Date": 45956,
+      "Exchange rate": 13828.015625
+    },
+    {
+      "Date": 45957,
+      "Exchange rate": 13828.0126953125
+    },
+    {
+      "Date": 45958,
+      "Exchange rate": 13828.009765625
+    },
+    {
+      "Date": 45959,
+      "Exchange rate": 13828.0048828125
+    },
+    {
+      "Date": 45960,
+      "Exchange rate": 13828.001953125
+    },
+    {
+      "Date": 45961,
+      "Exchange rate": 13827.9990234375
+    },
+    {
+      "Date": 45962,
+      "Exchange rate": 13827.9951171875
+    },
+    {
+      "Date": 45963,
+      "Exchange rate": 13827.9912109375
+    },
+    {
+      "Date": 45964,
+      "Exchange rate": 13827.9873046875
+    },
+    {
+      "Date": 45965,
+      "Exchange rate": 13827.984375
+    },
+    {
+      "Date": 45966,
+      "Exchange rate": 13827.9814453125
+    },
+    {
+      "Date": 45967,
+      "Exchange rate": 13827.9775390625
+    },
+    {
+      "Date": 45968,
+      "Exchange rate": 13827.9736328125
+    },
+    {
+      "Date": 45969,
+      "Exchange rate": 13827.970703125
+    },
+    {
+      "Date": 45970,
+      "Exchange rate": 13827.966796875
+    },
+    {
+      "Date": 45971,
+      "Exchange rate": 13827.9638671875
+    },
+    {
+      "Date": 45972,
+      "Exchange rate": 13827.9599609375
+    },
+    {
+      "Date": 45973,
+      "Exchange rate": 13827.95703125
+    },
+    {
+      "Date": 45974,
+      "Exchange rate": 13827.9541015625
+    },
+    {
+      "Date": 45975,
+      "Exchange rate": 13827.9501953125
+    },
+    {
+      "Date": 45976,
+      "Exchange rate": 13827.947265625
+    },
+    {
+      "Date": 45977,
+      "Exchange rate": 13827.943359375
+    },
+    {
+      "Date": 45978,
+      "Exchange rate": 13827.94140625
+    },
+    {
+      "Date": 45979,
+      "Exchange rate": 13827.9384765625
+    },
+    {
+      "Date": 45980,
+      "Exchange rate": 13827.9345703125
+    },
+    {
+      "Date": 45981,
+      "Exchange rate": 13827.931640625
+    },
+    {
+      "Date": 45982,
+      "Exchange rate": 13827.927734375
+    },
+    {
+      "Date": 45983,
+      "Exchange rate": 13827.9248046875
+    },
+    {
+      "Date": 45984,
+      "Exchange rate": 13827.921875
+    },
+    {
+      "Date": 45985,
+      "Exchange rate": 13827.9189453125
+    },
+    {
+      "Date": 45986,
+      "Exchange rate": 13827.916015625
+    },
+    {
+      "Date": 45987,
+      "Exchange rate": 13827.912109375
+    },
+    {
+      "Date": 45988,
+      "Exchange rate": 13827.9091796875
+    },
+    {
+      "Date": 45989,
+      "Exchange rate": 13827.90625
+    },
+    {
+      "Date": 45990,
+      "Exchange rate": 13827.9033203125
+    },
+    {
+      "Date": 45991,
+      "Exchange rate": 13827.8994140625
+    },
+    {
+      "Date": 45992,
+      "Exchange rate": 13827.8974609375
+    },
+    {
+      "Date": 45993,
+      "Exchange rate": 13827.89453125
+    },
+    {
+      "Date": 45994,
+      "Exchange rate": 13827.890625
+    },
+    {
+      "Date": 45995,
+      "Exchange rate": 13827.888671875
+    },
+    {
+      "Date": 45996,
+      "Exchange rate": 13827.884765625
+    },
+    {
+      "Date": 45997,
+      "Exchange rate": 13827.8818359375
+    },
+    {
+      "Date": 45998,
+      "Exchange rate": 13827.87890625
+    },
+    {
+      "Date": 45999,
+      "Exchange rate": 13827.8759765625
+    },
+    {
+      "Date": 46000,
+      "Exchange rate": 13827.8720703125
+    },
+    {
+      "Date": 46001,
+      "Exchange rate": 13827.8701171875
+    },
+    {
+      "Date": 46002,
+      "Exchange rate": 13827.8662109375
+    },
+    {
+      "Date": 46003,
+      "Exchange rate": 13827.8642578125
+    },
+    {
+      "Date": 46004,
+      "Exchange rate": 13827.861328125
+    },
+    {
+      "Date": 46005,
+      "Exchange rate": 13827.8583984375
+    },
+    {
+      "Date": 46006,
+      "Exchange rate": 13827.85546875
+    },
+    {
+      "Date": 46007,
+      "Exchange rate": 13827.8525390625
+    },
+    {
+      "Date": 46008,
+      "Exchange rate": 13827.849609375
+    },
+    {
+      "Date": 46009,
+      "Exchange rate": 13827.845703125
+    },
+    {
+      "Date": 46010,
+      "Exchange rate": 13827.84375
+    },
+    {
+      "Date": 46011,
+      "Exchange rate": 13827.83984375
+    },
+    {
+      "Date": 46012,
+      "Exchange rate": 13827.837890625
+    },
+    {
+      "Date": 46013,
+      "Exchange rate": 13827.833984375
+    },
+    {
+      "Date": 46014,
+      "Exchange rate": 13827.83203125
+    },
+    {
+      "Date": 46015,
+      "Exchange rate": 13827.828125
+    },
+    {
+      "Date": 46016,
+      "Exchange rate": 13827.826171875
+    },
+    {
+      "Date": 46017,
+      "Exchange rate": 13827.822265625
+    },
+    {
+      "Date": 46018,
+      "Exchange rate": 13827.8203125
+    },
+    {
+      "Date": 46019,
+      "Exchange rate": 13827.8173828125
+    },
+    {
+      "Date": 46020,
+      "Exchange rate": 13827.814453125
+    },
+    {
+      "Date": 46021,
+      "Exchange rate": 13827.8115234375
+    },
+    {
+      "Date": 46022,
+      "Exchange rate": 13827.80859375
+    },
+    {
+      "Date": 46023,
+      "Exchange rate": 13827.8056640625
+    },
+    {
+      "Date": 46024,
+      "Exchange rate": 13827.8037109375
+    },
+    {
+      "Date": 46025,
+      "Exchange rate": 13827.80078125
+    },
+    {
+      "Date": 46026,
+      "Exchange rate": 13827.7978515625
+    },
+    {
+      "Date": 46027,
+      "Exchange rate": 13827.794921875
+    },
+    {
+      "Date": 46028,
+      "Exchange rate": 13827.7919921875
+    },
+    {
+      "Date": 46029,
+      "Exchange rate": 13827.7900390625
+    },
+    {
+      "Date": 46030,
+      "Exchange rate": 13827.787109375
+    },
+    {
+      "Date": 46031,
+      "Exchange rate": 13827.7841796875
+    },
+    {
+      "Date": 46032,
+      "Exchange rate": 13827.78125
+    },
+    {
+      "Date": 46033,
+      "Exchange rate": 13827.7783203125
+    },
+    {
+      "Date": 46034,
+      "Exchange rate": 13827.7763671875
+    },
+    {
+      "Date": 46035,
+      "Exchange rate": 13827.7734375
+    },
+    {
+      "Date": 46036,
+      "Exchange rate": 13827.7705078125
+    },
+    {
+      "Date": 46037,
+      "Exchange rate": 13827.767578125
+    },
+    {
+      "Date": 46038,
+      "Exchange rate": 13827.765625
+    },
+    {
+      "Date": 46039,
+      "Exchange rate": 13827.7626953125
+    },
+    {
+      "Date": 46040,
+      "Exchange rate": 13827.759765625
+    },
+    {
+      "Date": 46041,
+      "Exchange rate": 13827.7568359375
+    },
+    {
+      "Date": 46042,
+      "Exchange rate": 13827.7548828125
+    },
+    {
+      "Date": 46043,
+      "Exchange rate": 13827.751953125
+    },
+    {
+      "Date": 46044,
+      "Exchange rate": 13827.75
+    },
+    {
+      "Date": 46045,
+      "Exchange rate": 13827.7470703125
+    },
+    {
+      "Date": 46046,
+      "Exchange rate": 13827.7451171875
+    },
+    {
+      "Date": 46047,
+      "Exchange rate": 13827.7421875
+    },
+    {
+      "Date": 46048,
+      "Exchange rate": 13827.7392578125
+    },
+    {
+      "Date": 46049,
+      "Exchange rate": 13827.736328125
+    },
+    {
+      "Date": 46050,
+      "Exchange rate": 13827.734375
+    },
+    {
+      "Date": 46051,
+      "Exchange rate": 13827.7314453125
+    },
+    {
+      "Date": 46052,
+      "Exchange rate": 13827.7294921875
+    },
+    {
+      "Date": 46053,
+      "Exchange rate": 13827.7265625
+    },
+    {
+      "Date": 46054,
+      "Exchange rate": 13827.7236328125
+    },
+    {
+      "Date": 46055,
+      "Exchange rate": 13827.7216796875
+    },
+    {
+      "Date": 46056,
+      "Exchange rate": 13827.71875
+    },
+    {
+      "Date": 46057,
+      "Exchange rate": 13827.716796875
+    },
+    {
+      "Date": 46058,
+      "Exchange rate": 13827.7138671875
+    },
+    {
+      "Date": 46059,
+      "Exchange rate": 13827.7119140625
+    },
+    {
+      "Date": 46060,
+      "Exchange rate": 13827.708984375
+    },
+    {
+      "Date": 46061,
+      "Exchange rate": 13827.70703125
+    },
+    {
+      "Date": 46062,
+      "Exchange rate": 13827.7041015625
+    },
+    {
+      "Date": 46063,
+      "Exchange rate": 13827.701171875
+    },
+    {
+      "Date": 46064,
+      "Exchange rate": 13827.69921875
+    },
+    {
+      "Date": 46065,
+      "Exchange rate": 13827.6962890625
+    },
+    {
+      "Date": 46066,
+      "Exchange rate": 13827.6943359375
+    },
+    {
+      "Date": 46067,
+      "Exchange rate": 13827.69140625
+    },
+    {
+      "Date": 46068,
+      "Exchange rate": 13827.689453125
+    },
+    {
+      "Date": 46069,
+      "Exchange rate": 13827.6865234375
+    },
+    {
+      "Date": 46070,
+      "Exchange rate": 13827.6845703125
+    },
+    {
+      "Date": 46071,
+      "Exchange rate": 13827.681640625
+    },
+    {
+      "Date": 46072,
+      "Exchange rate": 13827.6796875
+    },
+    {
+      "Date": 46073,
+      "Exchange rate": 13827.677734375
+    },
+    {
+      "Date": 46074,
+      "Exchange rate": 13827.6748046875
+    },
+    {
+      "Date": 46075,
+      "Exchange rate": 13827.6728515625
+    },
+    {
+      "Date": 46076,
+      "Exchange rate": 13827.669921875
+    },
+    {
+      "Date": 46077,
+      "Exchange rate": 13827.66796875
+    },
+    {
+      "Date": 46078,
+      "Exchange rate": 13827.6650390625
+    },
+    {
+      "Date": 46079,
+      "Exchange rate": 13827.6630859375
+    },
+    {
+      "Date": 46080,
+      "Exchange rate": 13827.66015625
+    },
+    {
+      "Date": 46081,
+      "Exchange rate": 13827.658203125
+    },
+    {
+      "Date": 46082,
+      "Exchange rate": 13827.65625
+    },
+    {
+      "Date": 46083,
+      "Exchange rate": 13827.6533203125
+    },
+    {
+      "Date": 46084,
+      "Exchange rate": 13827.6513671875
+    },
+    {
+      "Date": 46085,
+      "Exchange rate": 13827.6484375
+    },
+    {
+      "Date": 46086,
+      "Exchange rate": 13827.646484375
+    },
+    {
+      "Date": 46087,
+      "Exchange rate": 13827.64453125
+    },
+    {
+      "Date": 46088,
+      "Exchange rate": 13827.6416015625
+    },
+    {
+      "Date": 46089,
+      "Exchange rate": 13827.6396484375
+    },
+    {
+      "Date": 46090,
+      "Exchange rate": 13827.63671875
+    },
+    {
+      "Date": 46091,
+      "Exchange rate": 13827.6357421875
+    },
+    {
+      "Date": 46092,
+      "Exchange rate": 13827.6328125
+    },
+    {
+      "Date": 46093,
+      "Exchange rate": 13827.6298828125
+    },
+    {
+      "Date": 46094,
+      "Exchange rate": 13827.6279296875
+    },
+    {
+      "Date": 46095,
+      "Exchange rate": 13827.6259765625
+    },
+    {
+      "Date": 46096,
+      "Exchange rate": 13827.6240234375
+    },
+    {
+      "Date": 46097,
+      "Exchange rate": 13827.62109375
+    },
+    {
+      "Date": 46098,
+      "Exchange rate": 13827.619140625
+    },
+    {
+      "Date": 46099,
+      "Exchange rate": 13827.6171875
+    },
+    {
+      "Date": 46100,
+      "Exchange rate": 13827.6142578125
+    },
+    {
+      "Date": 46101,
+      "Exchange rate": 13827.61328125
+    },
+    {
+      "Date": 46102,
+      "Exchange rate": 13827.6103515625
+    },
+    {
+      "Date": 46103,
+      "Exchange rate": 13827.6083984375
+    },
+    {
+      "Date": 46104,
+      "Exchange rate": 13827.6064453125
+    },
+    {
+      "Date": 46105,
+      "Exchange rate": 13827.603515625
+    },
+    {
+      "Date": 46106,
+      "Exchange rate": 13827.6025390625
+    },
+    {
+      "Date": 46107,
+      "Exchange rate": 13827.599609375
+    },
+    {
+      "Date": 46108,
+      "Exchange rate": 13827.5966796875
+    },
+    {
+      "Date": 46109,
+      "Exchange rate": 13827.595703125
+    },
+    {
+      "Date": 46110,
+      "Exchange rate": 13827.5927734375
+    },
+    {
+      "Date": 46111,
+      "Exchange rate": 13827.591796875
+    },
+    {
+      "Date": 46112,
+      "Exchange rate": 13827.5888671875
+    },
+    {
+      "Date": 46113,
+      "Exchange rate": 13827.5859375
+    },
+    {
+      "Date": 46114,
+      "Exchange rate": 13827.5849609375
+    },
+    {
+      "Date": 46115,
+      "Exchange rate": 13827.58203125
+    },
+    {
+      "Date": 46116,
+      "Exchange rate": 13827.580078125
+    },
+    {
+      "Date": 46117,
+      "Exchange rate": 13827.578125
+    },
+    {
+      "Date": 46118,
+      "Exchange rate": 13827.576171875
+    },
+    {
+      "Date": 46119,
+      "Exchange rate": 13827.57421875
+    },
+    {
+      "Date": 46120,
+      "Exchange rate": 13827.572265625
+    },
+    {
+      "Date": 46121,
+      "Exchange rate": 13827.5693359375
+    },
+    {
+      "Date": 46122,
+      "Exchange rate": 13827.568359375
+    },
+    {
+      "Date": 46123,
+      "Exchange rate": 13827.5654296875
+    },
+    {
+      "Date": 46124,
+      "Exchange rate": 13827.564453125
+    },
+    {
+      "Date": 46125,
+      "Exchange rate": 13827.5625
+    },
+    {
+      "Date": 46126,
+      "Exchange rate": 13827.5595703125
+    },
+    {
+      "Date": 46127,
+      "Exchange rate": 13827.55859375
+    },
+    {
+      "Date": 46128,
+      "Exchange rate": 13827.5556640625
+    },
+    {
+      "Date": 46129,
+      "Exchange rate": 13827.5537109375
+    },
+    {
+      "Date": 46130,
+      "Exchange rate": 13827.5517578125
+    },
+    {
+      "Date": 46131,
+      "Exchange rate": 13827.5498046875
+    },
+    {
+      "Date": 46132,
+      "Exchange rate": 13827.5478515625
+    },
+    {
+      "Date": 46133,
+      "Exchange rate": 13827.5458984375
+    },
+    {
+      "Date": 46134,
+      "Exchange rate": 13827.5439453125
+    },
+    {
+      "Date": 46135,
+      "Exchange rate": 13827.5419921875
+    },
+    {
+      "Date": 46136,
+      "Exchange rate": 13827.5400390625
+    },
+    {
+      "Date": 46137,
+      "Exchange rate": 13827.5380859375
+    },
+    {
+      "Date": 46138,
+      "Exchange rate": 13827.5361328125
+    },
+    {
+      "Date": 46139,
+      "Exchange rate": 13827.5341796875
+    },
+    {
+      "Date": 46140,
+      "Exchange rate": 13827.5322265625
+    },
+    {
+      "Date": 46141,
+      "Exchange rate": 13827.53125
+    },
+    {
+      "Date": 46142,
+      "Exchange rate": 13827.5283203125
+    },
+    {
+      "Date": 46143,
+      "Exchange rate": 13827.5263671875
+    },
+    {
+      "Date": 46144,
+      "Exchange rate": 13827.525390625
+    },
+    {
+      "Date": 46145,
+      "Exchange rate": 13827.5224609375
+    },
+    {
+      "Date": 46146,
+      "Exchange rate": 13827.5205078125
+    },
+    {
+      "Date": 46147,
+      "Exchange rate": 13827.51953125
+    },
+    {
+      "Date": 46148,
+      "Exchange rate": 13827.517578125
+    },
+    {
+      "Date": 46149,
+      "Exchange rate": 13827.5146484375
+    },
+    {
+      "Date": 46150,
+      "Exchange rate": 13827.513671875
+    },
+    {
+      "Date": 46151,
+      "Exchange rate": 13827.51171875
+    },
+    {
+      "Date": 46152,
+      "Exchange rate": 13827.509765625
+    },
+    {
+      "Date": 46153,
+      "Exchange rate": 13827.5078125
+    },
+    {
+      "Date": 46154,
+      "Exchange rate": 13827.505859375
+    },
+    {
+      "Date": 46155,
+      "Exchange rate": 13827.50390625
+    },
+    {
+      "Date": 46156,
+      "Exchange rate": 13827.501953125
+    },
+    {
+      "Date": 46157,
+      "Exchange rate": 13827.5
+    },
+    {
+      "Date": 46158,
+      "Exchange rate": 13827.498046875
+    },
+    {
+      "Date": 46159,
+      "Exchange rate": 13827.49609375
+    },
+    {
+      "Date": 46160,
+      "Exchange rate": 13827.494140625
+    },
+    {
+      "Date": 46161,
+      "Exchange rate": 13827.4921875
+    },
+    {
+      "Date": 46162,
+      "Exchange rate": 13827.4912109375
+    },
+    {
+      "Date": 46163,
+      "Exchange rate": 13827.48828125
+    },
+    {
+      "Date": 46164,
+      "Exchange rate": 13827.4873046875
+    },
+    {
+      "Date": 46165,
+      "Exchange rate": 13827.4853515625
+    },
+    {
+      "Date": 46166,
+      "Exchange rate": 13827.4833984375
+    },
+    {
+      "Date": 46167,
+      "Exchange rate": 13827.4814453125
+    },
+    {
+      "Date": 46168,
+      "Exchange rate": 13827.4794921875
+    },
+    {
+      "Date": 46169,
+      "Exchange rate": 13827.4775390625
+    },
+    {
+      "Date": 46170,
+      "Exchange rate": 13827.4755859375
+    },
+    {
+      "Date": 46171,
+      "Exchange rate": 13827.474609375
+    },
+    {
+      "Date": 46172,
+      "Exchange rate": 13827.4716796875
+    },
+    {
+      "Date": 46173,
+      "Exchange rate": 13827.470703125
+    },
+    {
+      "Date": 46174,
+      "Exchange rate": 13827.46875
+    },
+    {
+      "Date": 46175,
+      "Exchange rate": 13827.466796875
+    },
+    {
+      "Date": 46176,
+      "Exchange rate": 13827.46484375
+    },
+    {
+      "Date": 46177,
+      "Exchange rate": 13827.4638671875
+    },
+    {
+      "Date": 46178,
+      "Exchange rate": 13827.4619140625
+    },
+    {
+      "Date": 46179,
+      "Exchange rate": 13827.458984375
+    },
+    {
+      "Date": 46180,
+      "Exchange rate": 13827.4580078125
+    },
+    {
+      "Date": 46181,
+      "Exchange rate": 13827.4560546875
+    },
+    {
+      "Date": 46182,
+      "Exchange rate": 13827.4541015625
+    },
+    {
+      "Date": 46183,
+      "Exchange rate": 13827.453125
+    },
+    {
+      "Date": 46184,
+      "Exchange rate": 13827.451171875
+    },
+    {
+      "Date": 46185,
+      "Exchange rate": 13827.44921875
+    },
+    {
+      "Date": 46186,
+      "Exchange rate": 13827.4482421875
+    },
+    {
+      "Date": 46187,
+      "Exchange rate": 13827.4462890625
+    },
+    {
+      "Date": 46188,
+      "Exchange rate": 13827.4443359375
+    },
+    {
+      "Date": 46189,
+      "Exchange rate": 13827.443359375
+    },
+    {
+      "Date": 46190,
+      "Exchange rate": 13827.44140625
+    },
+    {
+      "Date": 46191,
+      "Exchange rate": 13827.4384765625
+    },
+    {
+      "Date": 46192,
+      "Exchange rate": 13827.4375
+    },
+    {
+      "Date": 46193,
+      "Exchange rate": 13827.4365234375
+    },
+    {
+      "Date": 46194,
+      "Exchange rate": 13827.4345703125
+    },
+    {
+      "Date": 46195,
+      "Exchange rate": 13827.4326171875
+    },
+    {
+      "Date": 46196,
+      "Exchange rate": 13827.431640625
+    },
+    {
+      "Date": 46197,
+      "Exchange rate": 13827.4296875
+    },
+    {
+      "Date": 46198,
+      "Exchange rate": 13827.427734375
+    },
+    {
+      "Date": 46199,
+      "Exchange rate": 13827.4267578125
+    },
+    {
+      "Date": 46200,
+      "Exchange rate": 13827.4248046875
+    },
+    {
+      "Date": 46201,
+      "Exchange rate": 13827.4228515625
+    },
+    {
+      "Date": 46202,
+      "Exchange rate": 13827.4208984375
+    },
+    {
+      "Date": 46203,
+      "Exchange rate": 13827.419921875
+    },
+    {
+      "Date": 46204,
+      "Exchange rate": 13827.41796875
+    },
+    {
+      "Date": 46205,
+      "Exchange rate": 13827.416015625
+    },
+    {
+      "Date": 46206,
+      "Exchange rate": 13827.4150390625
+    },
+    {
+      "Date": 46207,
+      "Exchange rate": 13827.4130859375
+    },
+    {
+      "Date": 46208,
+      "Exchange rate": 13827.4111328125
+    },
+    {
+      "Date": 46209,
+      "Exchange rate": 13827.41015625
+    },
+    {
+      "Date": 46210,
+      "Exchange rate": 13827.408203125
+    },
+    {
+      "Date": 46211,
+      "Exchange rate": 13827.40625
+    },
+    {
+      "Date": 46212,
+      "Exchange rate": 13827.404296875
+    },
+    {
+      "Date": 46213,
+      "Exchange rate": 13827.4033203125
+    },
+    {
+      "Date": 46214,
+      "Exchange rate": 13827.4013671875
+    },
+    {
+      "Date": 46215,
+      "Exchange rate": 13827.3994140625
+    },
+    {
+      "Date": 46216,
+      "Exchange rate": 13827.3984375
+    },
+    {
+      "Date": 46217,
+      "Exchange rate": 13827.396484375
+    },
+    {
+      "Date": 46218,
+      "Exchange rate": 13827.3955078125
+    },
+    {
+      "Date": 46219,
+      "Exchange rate": 13827.3935546875
+    },
+    {
+      "Date": 46220,
+      "Exchange rate": 13827.392578125
+    },
+    {
+      "Date": 46221,
+      "Exchange rate": 13827.390625
+    },
+    {
+      "Date": 46222,
+      "Exchange rate": 13827.388671875
+    },
+    {
+      "Date": 46223,
+      "Exchange rate": 13827.3876953125
+    },
+    {
+      "Date": 46224,
+      "Exchange rate": 13827.3857421875
+    },
+    {
+      "Date": 46225,
+      "Exchange rate": 13827.3837890625
+    },
+    {
+      "Date": 46226,
+      "Exchange rate": 13827.3828125
+    },
+    {
+      "Date": 46227,
+      "Exchange rate": 13827.3818359375
+    },
+    {
+      "Date": 46228,
+      "Exchange rate": 13827.3798828125
+    },
+    {
+      "Date": 46229,
+      "Exchange rate": 13827.3779296875
+    },
+    {
+      "Date": 46230,
+      "Exchange rate": 13827.376953125
+    },
+    {
+      "Date": 46231,
+      "Exchange rate": 13827.375
+    },
+    {
+      "Date": 46232,
+      "Exchange rate": 13827.3740234375
+    },
+    {
+      "Date": 46233,
+      "Exchange rate": 13827.3720703125
+    },
+    {
+      "Date": 46234,
+      "Exchange rate": 13827.37109375
+    },
+    {
+      "Date": 46235,
+      "Exchange rate": 13827.369140625
+    },
+    {
+      "Date": 46236,
+      "Exchange rate": 13827.3671875
+    },
+    {
+      "Date": 46237,
+      "Exchange rate": 13827.3662109375
+    },
+    {
+      "Date": 46238,
+      "Exchange rate": 13827.365234375
+    },
+    {
+      "Date": 46239,
+      "Exchange rate": 13827.36328125
+    },
+    {
+      "Date": 46240,
+      "Exchange rate": 13827.361328125
+    },
+    {
+      "Date": 46241,
+      "Exchange rate": 13827.3603515625
+    },
+    {
+      "Date": 46242,
+      "Exchange rate": 13827.3583984375
+    },
+    {
+      "Date": 46243,
+      "Exchange rate": 13827.357421875
+    },
+    {
+      "Date": 46244,
+      "Exchange rate": 13827.35546875
+    },
+    {
+      "Date": 46245,
+      "Exchange rate": 13827.3544921875
+    },
+    {
+      "Date": 46246,
+      "Exchange rate": 13827.3525390625
+    },
+    {
+      "Date": 46247,
+      "Exchange rate": 13827.3505859375
+    },
+    {
+      "Date": 46248,
+      "Exchange rate": 13827.349609375
+    },
+    {
+      "Date": 46249,
+      "Exchange rate": 13827.3486328125
+    },
+    {
+      "Date": 46250,
+      "Exchange rate": 13827.3466796875
+    },
+    {
+      "Date": 46251,
+      "Exchange rate": 13827.3447265625
+    },
+    {
+      "Date": 46252,
+      "Exchange rate": 13827.34375
+    },
+    {
+      "Date": 46253,
+      "Exchange rate": 13827.3427734375
+    },
+    {
+      "Date": 46254,
+      "Exchange rate": 13827.3408203125
+    },
+    {
+      "Date": 46255,
+      "Exchange rate": 13827.3388671875
+    },
+    {
+      "Date": 46256,
+      "Exchange rate": 13827.337890625
+    },
+    {
+      "Date": 46257,
+      "Exchange rate": 13827.3369140625
+    },
+    {
+      "Date": 46258,
+      "Exchange rate": 13827.3349609375
+    },
+    {
+      "Date": 46259,
+      "Exchange rate": 13827.333984375
+    },
+    {
+      "Date": 46260,
+      "Exchange rate": 13827.3330078125
+    },
+    {
+      "Date": 46261,
+      "Exchange rate": 13827.3310546875
+    },
+    {
+      "Date": 46262,
+      "Exchange rate": 13827.330078125
+    },
+    {
+      "Date": 46263,
+      "Exchange rate": 13827.328125
+    },
+    {
+      "Date": 46264,
+      "Exchange rate": 13827.3271484375
+    },
+    {
+      "Date": 46265,
+      "Exchange rate": 13827.3251953125
+    },
+    {
+      "Date": 46266,
+      "Exchange rate": 13827.32421875
+    },
+    {
+      "Date": 46267,
+      "Exchange rate": 13827.322265625
+    },
+    {
+      "Date": 46268,
+      "Exchange rate": 13827.3212890625
+    },
+    {
+      "Date": 46269,
+      "Exchange rate": 13827.3203125
+    },
+    {
+      "Date": 46270,
+      "Exchange rate": 13827.318359375
+    },
+    {
+      "Date": 46271,
+      "Exchange rate": 13827.31640625
+    },
+    {
+      "Date": 46272,
+      "Exchange rate": 13827.3154296875
+    },
+    {
+      "Date": 46273,
+      "Exchange rate": 13827.314453125
+    },
+    {
+      "Date": 46274,
+      "Exchange rate": 13827.3125
+    },
+    {
+      "Date": 46275,
+      "Exchange rate": 13827.3115234375
+    },
+    {
+      "Date": 46276,
+      "Exchange rate": 13827.310546875
+    },
+    {
+      "Date": 46277,
+      "Exchange rate": 13827.30859375
+    },
+    {
+      "Date": 46278,
+      "Exchange rate": 13827.3076171875
+    },
+    {
+      "Date": 46279,
+      "Exchange rate": 13827.3056640625
+    },
+    {
+      "Date": 46280,
+      "Exchange rate": 13827.3056640625
+    },
+    {
+      "Date": 46281,
+      "Exchange rate": 13827.3037109375
+    },
+    {
+      "Date": 46282,
+      "Exchange rate": 13827.302734375
+    },
+    {
+      "Date": 46283,
+      "Exchange rate": 13827.30078125
+    },
+    {
+      "Date": 46284,
+      "Exchange rate": 13827.2998046875
+    },
+    {
+      "Date": 46285,
+      "Exchange rate": 13827.298828125
+    },
+    {
+      "Date": 46286,
+      "Exchange rate": 13827.296875
+    },
+    {
+      "Date": 46287,
+      "Exchange rate": 13827.2958984375
+    },
+    {
+      "Date": 46288,
+      "Exchange rate": 13827.2939453125
+    },
+    {
+      "Date": 46289,
+      "Exchange rate": 13827.2939453125
+    },
+    {
+      "Date": 46290,
+      "Exchange rate": 13827.2919921875
+    },
+    {
+      "Date": 46291,
+      "Exchange rate": 13827.2900390625
+    },
+    {
+      "Date": 46292,
+      "Exchange rate": 13827.2890625
+    },
+    {
+      "Date": 46293,
+      "Exchange rate": 13827.2890625
+    },
+    {
+      "Date": 46294,
+      "Exchange rate": 13827.287109375
+    },
+    {
+      "Date": 46295,
+      "Exchange rate": 13827.2861328125
+    },
+    {
+      "Date": 46296,
+      "Exchange rate": 13827.2841796875
+    },
+    {
+      "Date": 46297,
+      "Exchange rate": 13827.283203125
+    },
+    {
+      "Date": 46298,
+      "Exchange rate": 13827.2822265625
+    },
+    {
+      "Date": 46299,
+      "Exchange rate": 13827.2802734375
+    },
+    {
+      "Date": 46300,
+      "Exchange rate": 13827.279296875
+    },
+    {
+      "Date": 46301,
+      "Exchange rate": 13827.27734375
+    },
+    {
+      "Date": 46302,
+      "Exchange rate": 13827.27734375
+    },
+    {
+      "Date": 46303,
+      "Exchange rate": 13827.275390625
+    },
+    {
+      "Date": 46304,
+      "Exchange rate": 13827.2744140625
+    },
+    {
+      "Date": 46305,
+      "Exchange rate": 13827.2724609375
+    },
+    {
+      "Date": 46306,
+      "Exchange rate": 13827.2724609375
+    },
+    {
+      "Date": 46307,
+      "Exchange rate": 13827.2705078125
+    },
+    {
+      "Date": 46308,
+      "Exchange rate": 13827.26953125
+    },
+    {
+      "Date": 46309,
+      "Exchange rate": 13827.267578125
+    },
+    {
+      "Date": 46310,
+      "Exchange rate": 13827.2666015625
+    },
+    {
+      "Date": 46311,
+      "Exchange rate": 13827.265625
+    },
+    {
+      "Date": 46312,
+      "Exchange rate": 13827.2646484375
+    },
+    {
+      "Date": 46313,
+      "Exchange rate": 13827.263671875
+    },
+    {
+      "Date": 46314,
+      "Exchange rate": 13827.26171875
+    },
+    {
+      "Date": 46315,
+      "Exchange rate": 13827.26171875
+    },
+    {
+      "Date": 46316,
+      "Exchange rate": 13827.259765625
+    },
+    {
+      "Date": 46317,
+      "Exchange rate": 13827.2587890625
+    },
+    {
+      "Date": 46318,
+      "Exchange rate": 13827.2578125
+    },
+    {
+      "Date": 46319,
+      "Exchange rate": 13827.255859375
+    },
+    {
+      "Date": 46320,
+      "Exchange rate": 13827.255859375
+    },
+    {
+      "Date": 46321,
+      "Exchange rate": 13827.25390625
+    },
+    {
+      "Date": 46322,
+      "Exchange rate": 13827.2529296875
+    },
+    {
+      "Date": 46323,
+      "Exchange rate": 13827.2509765625
+    },
+    {
+      "Date": 46324,
+      "Exchange rate": 13827.25
+    },
+    {
+      "Date": 46325,
+      "Exchange rate": 13827.25
+    },
+    {
+      "Date": 46326,
+      "Exchange rate": 13827.248046875
+    },
+    {
+      "Date": 46327,
+      "Exchange rate": 13827.2470703125
+    },
+    {
+      "Date": 46328,
+      "Exchange rate": 13827.24609375
+    },
+    {
+      "Date": 46329,
+      "Exchange rate": 13827.2451171875
+    },
+    {
+      "Date": 46330,
+      "Exchange rate": 13827.244140625
+    },
+    {
+      "Date": 46331,
+      "Exchange rate": 13827.2421875
+    },
+    {
+      "Date": 46332,
+      "Exchange rate": 13827.2412109375
+    },
+    {
+      "Date": 46333,
+      "Exchange rate": 13827.240234375
+    },
+    {
+      "Date": 46334,
+      "Exchange rate": 13827.2392578125
+    },
+    {
+      "Date": 46335,
+      "Exchange rate": 13827.23828125
+    },
+    {
+      "Date": 46336,
+      "Exchange rate": 13827.2373046875
+    },
+    {
+      "Date": 46337,
+      "Exchange rate": 13827.2353515625
+    },
+    {
+      "Date": 46338,
+      "Exchange rate": 13827.234375
+    },
+    {
+      "Date": 46339,
+      "Exchange rate": 13827.2333984375
+    },
+    {
+      "Date": 46340,
+      "Exchange rate": 13827.232421875
+    },
+    {
+      "Date": 46341,
+      "Exchange rate": 13827.2314453125
+    },
+    {
+      "Date": 46342,
+      "Exchange rate": 13827.23046875
+    },
+    {
+      "Date": 46343,
+      "Exchange rate": 13827.228515625
+    },
+    {
+      "Date": 46344,
+      "Exchange rate": 13827.228515625
+    },
+    {
+      "Date": 46345,
+      "Exchange rate": 13827.2275390625
+    },
+    {
+      "Date": 46346,
+      "Exchange rate": 13827.2255859375
+    },
+    {
+      "Date": 46347,
+      "Exchange rate": 13827.224609375
+    },
+    {
+      "Date": 46348,
+      "Exchange rate": 13827.2236328125
+    },
+    {
+      "Date": 46349,
+      "Exchange rate": 13827.22265625
+    },
+    {
+      "Date": 46350,
+      "Exchange rate": 13827.2216796875
+    },
+    {
+      "Date": 46351,
+      "Exchange rate": 13827.220703125
+    },
+    {
+      "Date": 46352,
+      "Exchange rate": 13827.2197265625
+    },
+    {
+      "Date": 46353,
+      "Exchange rate": 13827.2177734375
+    },
+    {
+      "Date": 46354,
+      "Exchange rate": 13827.216796875
+    },
+    {
+      "Date": 46355,
+      "Exchange rate": 13827.216796875
+    },
+    {
+      "Date": 46356,
+      "Exchange rate": 13827.2158203125
+    },
+    {
+      "Date": 46357,
+      "Exchange rate": 13827.2138671875
+    },
+    {
+      "Date": 46358,
+      "Exchange rate": 13827.212890625
+    },
+    {
+      "Date": 46359,
+      "Exchange rate": 13827.2119140625
+    },
+    {
+      "Date": 46360,
+      "Exchange rate": 13827.2109375
+    },
+    {
+      "Date": 46361,
+      "Exchange rate": 13827.2099609375
+    },
+    {
+      "Date": 46362,
+      "Exchange rate": 13827.208984375
+    },
+    {
+      "Date": 46363,
+      "Exchange rate": 13827.2080078125
+    },
+    {
+      "Date": 46364,
+      "Exchange rate": 13827.20703125
+    },
+    {
+      "Date": 46365,
+      "Exchange rate": 13827.2060546875
+    },
+    {
+      "Date": 46366,
+      "Exchange rate": 13827.205078125
+    },
+    {
+      "Date": 46367,
+      "Exchange rate": 13827.2041015625
+    },
+    {
+      "Date": 46368,
+      "Exchange rate": 13827.203125
+    },
+    {
+      "Date": 46369,
+      "Exchange rate": 13827.201171875
+    },
+    {
+      "Date": 46370,
+      "Exchange rate": 13827.201171875
+    },
+    {
+      "Date": 46371,
+      "Exchange rate": 13827.2001953125
+    },
+    {
+      "Date": 46372,
+      "Exchange rate": 13827.19921875
+    },
+    {
+      "Date": 46373,
+      "Exchange rate": 13827.1982421875
+    },
+    {
+      "Date": 46374,
+      "Exchange rate": 13827.197265625
+    },
+    {
+      "Date": 46375,
+      "Exchange rate": 13827.1953125
+    },
+    {
+      "Date": 46376,
+      "Exchange rate": 13827.1953125
+    },
+    {
+      "Date": 46377,
+      "Exchange rate": 13827.1943359375
+    },
+    {
+      "Date": 46378,
+      "Exchange rate": 13827.193359375
+    },
+    {
+      "Date": 46379,
+      "Exchange rate": 13827.19140625
+    },
+    {
+      "Date": 46380,
+      "Exchange rate": 13827.1904296875
+    },
+    {
+      "Date": 46381,
+      "Exchange rate": 13827.189453125
+    },
+    {
+      "Date": 46382,
+      "Exchange rate": 13827.189453125
+    },
+    {
+      "Date": 46383,
+      "Exchange rate": 13827.1884765625
+    },
+    {
+      "Date": 46384,
+      "Exchange rate": 13827.1865234375
+    },
+    {
+      "Date": 46385,
+      "Exchange rate": 13827.185546875
+    },
+    {
+      "Date": 46386,
+      "Exchange rate": 13827.1845703125
+    },
+    {
+      "Date": 46387,
+      "Exchange rate": 13827.1845703125
+    },
+    {
+      "Date": 46388,
+      "Exchange rate": 13827.18359375
+    },
+    {
+      "Date": 46389,
+      "Exchange rate": 13827.1826171875
+    },
+    {
+      "Date": 46390,
+      "Exchange rate": 13827.1806640625
+    },
+    {
+      "Date": 46391,
+      "Exchange rate": 13827.1796875
+    },
+    {
+      "Date": 46392,
+      "Exchange rate": 13827.1787109375
+    },
+    {
+      "Date": 46393,
+      "Exchange rate": 13827.1787109375
+    },
+    {
+      "Date": 46394,
+      "Exchange rate": 13827.177734375
+    },
+    {
+      "Date": 46395,
+      "Exchange rate": 13827.17578125
+    },
+    {
+      "Date": 46396,
+      "Exchange rate": 13827.1748046875
+    },
+    {
+      "Date": 46397,
+      "Exchange rate": 13827.173828125
+    },
+    {
+      "Date": 46398,
+      "Exchange rate": 13827.1728515625
+    },
+    {
+      "Date": 46399,
+      "Exchange rate": 13827.1728515625
+    },
+    {
+      "Date": 46400,
+      "Exchange rate": 13827.171875
+    },
+    {
+      "Date": 46401,
+      "Exchange rate": 13827.1708984375
+    },
+    {
+      "Date": 46402,
+      "Exchange rate": 13827.169921875
+    },
+    {
+      "Date": 46403,
+      "Exchange rate": 13827.16796875
+    },
+    {
+      "Date": 46404,
+      "Exchange rate": 13827.16796875
+    },
+    {
+      "Date": 46405,
+      "Exchange rate": 13827.1669921875
+    },
+    {
+      "Date": 46406,
+      "Exchange rate": 13827.166015625
+    },
+    {
+      "Date": 46407,
+      "Exchange rate": 13827.1650390625
+    },
+    {
+      "Date": 46408,
+      "Exchange rate": 13827.1640625
+    },
+    {
+      "Date": 46409,
+      "Exchange rate": 13827.1630859375
+    },
+    {
+      "Date": 46410,
+      "Exchange rate": 13827.162109375
+    },
+    {
+      "Date": 46411,
+      "Exchange rate": 13827.1611328125
+    },
+    {
+      "Date": 46412,
+      "Exchange rate": 13827.16015625
+    },
+    {
+      "Date": 46413,
+      "Exchange rate": 13827.1591796875
+    },
+    {
+      "Date": 46414,
+      "Exchange rate": 13827.158203125
+    },
+    {
+      "Date": 46415,
+      "Exchange rate": 13827.1572265625
+    },
+    {
+      "Date": 46416,
+      "Exchange rate": 13827.15625
+    },
+    {
+      "Date": 46417,
+      "Exchange rate": 13827.15625
+    },
+    {
+      "Date": 46418,
+      "Exchange rate": 13827.154296875
+    },
+    {
+      "Date": 46419,
+      "Exchange rate": 13827.1533203125
+    },
+    {
+      "Date": 46420,
+      "Exchange rate": 13827.15234375
+    },
+    {
+      "Date": 46421,
+      "Exchange rate": 13827.1513671875
+    },
+    {
+      "Date": 46422,
+      "Exchange rate": 13827.1513671875
+    },
+    {
+      "Date": 46423,
+      "Exchange rate": 13827.150390625
+    },
+    {
+      "Date": 46424,
+      "Exchange rate": 13827.1494140625
+    },
+    {
+      "Date": 46425,
+      "Exchange rate": 13827.1474609375
+    },
+    {
+      "Date": 46426,
+      "Exchange rate": 13827.146484375
+    },
+    {
+      "Date": 46427,
+      "Exchange rate": 13827.1455078125
+    },
+    {
+      "Date": 46428,
+      "Exchange rate": 13827.1455078125
+    },
+    {
+      "Date": 46429,
+      "Exchange rate": 13827.14453125
+    },
+    {
+      "Date": 46430,
+      "Exchange rate": 13827.1435546875
+    },
+    {
+      "Date": 46431,
+      "Exchange rate": 13827.142578125
+    },
+    {
+      "Date": 46432,
+      "Exchange rate": 13827.1416015625
+    },
+    {
+      "Date": 46433,
+      "Exchange rate": 13827.140625
+    },
+    {
+      "Date": 46434,
+      "Exchange rate": 13827.140625
+    },
+    {
+      "Date": 46435,
+      "Exchange rate": 13827.1396484375
+    },
+    {
+      "Date": 46436,
+      "Exchange rate": 13827.138671875
+    },
+    {
+      "Date": 46437,
+      "Exchange rate": 13827.1376953125
+    },
+    {
+      "Date": 46438,
+      "Exchange rate": 13827.13671875
+    },
+    {
+      "Date": 46439,
+      "Exchange rate": 13827.1357421875
+    },
+    {
+      "Date": 46440,
+      "Exchange rate": 13827.134765625
+    },
+    {
+      "Date": 46441,
+      "Exchange rate": 13827.134765625
+    },
+    {
+      "Date": 46442,
+      "Exchange rate": 13827.1337890625
+    },
+    {
+      "Date": 46443,
+      "Exchange rate": 13827.1328125
+    },
+    {
+      "Date": 46444,
+      "Exchange rate": 13827.1318359375
+    },
+    {
+      "Date": 46445,
+      "Exchange rate": 13827.130859375
+    },
+    {
+      "Date": 46446,
+      "Exchange rate": 13827.1298828125
+    },
+    {
+      "Date": 46447,
+      "Exchange rate": 13827.12890625
+    },
+    {
+      "Date": 46448,
+      "Exchange rate": 13827.12890625
+    },
+    {
+      "Date": 46449,
+      "Exchange rate": 13827.1279296875
+    },
+    {
+      "Date": 46450,
+      "Exchange rate": 13827.126953125
+    },
+    {
+      "Date": 46451,
+      "Exchange rate": 13827.1259765625
+    },
+    {
+      "Date": 46452,
+      "Exchange rate": 13827.125
+    },
+    {
+      "Date": 46453,
+      "Exchange rate": 13827.1240234375
+    },
+    {
+      "Date": 46454,
+      "Exchange rate": 13827.1240234375
+    },
+    {
+      "Date": 46455,
+      "Exchange rate": 13827.123046875
+    },
+    {
+      "Date": 46456,
+      "Exchange rate": 13827.1220703125
+    },
+    {
+      "Date": 46457,
+      "Exchange rate": 13827.12109375
+    },
+    {
+      "Date": 46458,
+      "Exchange rate": 13827.1201171875
+    },
+    {
+      "Date": 46459,
+      "Exchange rate": 13827.119140625
+    },
+    {
+      "Date": 46460,
+      "Exchange rate": 13827.1181640625
+    },
+    {
+      "Date": 46461,
+      "Exchange rate": 13827.1181640625
+    },
+    {
+      "Date": 46462,
+      "Exchange rate": 13827.1171875
+    },
+    {
+      "Date": 46463,
+      "Exchange rate": 13827.1162109375
+    },
+    {
+      "Date": 46464,
+      "Exchange rate": 13827.115234375
+    },
+    {
+      "Date": 46465,
+      "Exchange rate": 13827.1142578125
+    },
+    {
+      "Date": 46466,
+      "Exchange rate": 13827.11328125
+    },
+    {
+      "Date": 46467,
+      "Exchange rate": 13827.1123046875
+    },
+    {
+      "Date": 46468,
+      "Exchange rate": 13827.1123046875
+    },
+    {
+      "Date": 46469,
+      "Exchange rate": 13827.111328125
+    },
+    {
+      "Date": 46470,
+      "Exchange rate": 13827.1103515625
+    },
+    {
+      "Date": 46471,
+      "Exchange rate": 13827.109375
+    },
+    {
+      "Date": 46472,
+      "Exchange rate": 13827.1083984375
+    },
+    {
+      "Date": 46473,
+      "Exchange rate": 13827.107421875
+    },
+    {
+      "Date": 46474,
+      "Exchange rate": 13827.107421875
+    },
+    {
+      "Date": 46475,
+      "Exchange rate": 13827.1064453125
+    },
+    {
+      "Date": 46476,
+      "Exchange rate": 13827.10546875
+    },
+    {
+      "Date": 46477,
+      "Exchange rate": 13827.1044921875
+    },
+    {
+      "Date": 46478,
+      "Exchange rate": 13827.103515625
+    },
+    {
+      "Date": 46479,
+      "Exchange rate": 13827.1025390625
+    },
+    {
+      "Date": 46480,
+      "Exchange rate": 13827.1015625
+    },
+    {
+      "Date": 46481,
+      "Exchange rate": 13827.1015625
+    },
+    {
+      "Date": 46482,
+      "Exchange rate": 13827.1005859375
+    },
+    {
+      "Date": 46483,
+      "Exchange rate": 13827.099609375
+    },
+    {
+      "Date": 46484,
+      "Exchange rate": 13827.0986328125
+    },
+    {
+      "Date": 46485,
+      "Exchange rate": 13827.09765625
+    },
+    {
+      "Date": 46486,
+      "Exchange rate": 13827.0966796875
+    },
+    {
+      "Date": 46487,
+      "Exchange rate": 13827.095703125
+    },
+    {
+      "Date": 46488,
+      "Exchange rate": 13827.095703125
+    },
+    {
+      "Date": 46489,
+      "Exchange rate": 13827.0947265625
+    },
+    {
+      "Date": 46490,
+      "Exchange rate": 13827.09375
+    },
+    {
+      "Date": 46491,
+      "Exchange rate": 13827.0927734375
+    },
+    {
+      "Date": 46492,
+      "Exchange rate": 13827.091796875
+    },
+    {
+      "Date": 46493,
+      "Exchange rate": 13827.0908203125
+    },
+    {
+      "Date": 46494,
+      "Exchange rate": 13827.0908203125
+    },
+    {
+      "Date": 46495,
+      "Exchange rate": 13827.0908203125
+    },
+    {
+      "Date": 46496,
+      "Exchange rate": 13827.08984375
+    },
+    {
+      "Date": 46497,
+      "Exchange rate": 13827.0888671875
+    },
+    {
+      "Date": 46498,
+      "Exchange rate": 13827.087890625
+    },
+    {
+      "Date": 46499,
+      "Exchange rate": 13827.0869140625
+    },
+    {
+      "Date": 46500,
+      "Exchange rate": 13827.0859375
+    },
+    {
+      "Date": 46501,
+      "Exchange rate": 13827.0849609375
+    },
+    {
+      "Date": 46502,
+      "Exchange rate": 13827.0849609375
+    },
+    {
+      "Date": 46503,
+      "Exchange rate": 13827.083984375
+    },
+    {
+      "Date": 46504,
+      "Exchange rate": 13827.0830078125
+    },
+    {
+      "Date": 46505,
+      "Exchange rate": 13827.08203125
+    },
+    {
+      "Date": 46506,
+      "Exchange rate": 13827.0810546875
+    },
+    {
+      "Date": 46507,
+      "Exchange rate": 13827.0810546875
+    },
+    {
+      "Date": 46508,
+      "Exchange rate": 13827.080078125
+    },
+    {
+      "Date": 46509,
+      "Exchange rate": 13827.080078125
+    },
+    {
+      "Date": 46510,
+      "Exchange rate": 13827.0791015625
+    },
+    {
+      "Date": 46511,
+      "Exchange rate": 13827.078125
+    },
+    {
+      "Date": 46512,
+      "Exchange rate": 13827.0771484375
+    },
+    {
+      "Date": 46513,
+      "Exchange rate": 13827.0771484375
+    },
+    {
+      "Date": 46514,
+      "Exchange rate": 13827.076171875
+    },
+    {
+      "Date": 46515,
+      "Exchange rate": 13827.0751953125
+    },
+    {
+      "Date": 46516,
+      "Exchange rate": 13827.07421875
+    },
+    {
+      "Date": 46517,
+      "Exchange rate": 13827.07421875
+    },
+    {
+      "Date": 46518,
+      "Exchange rate": 13827.0732421875
+    },
+    {
+      "Date": 46519,
+      "Exchange rate": 13827.072265625
+    },
+    {
+      "Date": 46520,
+      "Exchange rate": 13827.072265625
+    },
+    {
+      "Date": 46521,
+      "Exchange rate": 13827.0712890625
+    },
+    {
+      "Date": 46522,
+      "Exchange rate": 13827.0703125
+    },
+    {
+      "Date": 46523,
+      "Exchange rate": 13827.0693359375
+    },
+    {
+      "Date": 46524,
+      "Exchange rate": 13827.068359375
+    },
+    {
+      "Date": 46525,
+      "Exchange rate": 13827.068359375
+    },
+    {
+      "Date": 46526,
+      "Exchange rate": 13827.068359375
+    },
+    {
+      "Date": 46527,
+      "Exchange rate": 13827.0673828125
+    },
+    {
+      "Date": 46528,
+      "Exchange rate": 13827.06640625
+    },
+    {
+      "Date": 46529,
+      "Exchange rate": 13827.0654296875
+    },
+    {
+      "Date": 46530,
+      "Exchange rate": 13827.064453125
+    },
+    {
+      "Date": 46531,
+      "Exchange rate": 13827.064453125
+    },
+    {
+      "Date": 46532,
+      "Exchange rate": 13827.0634765625
+    },
+    {
+      "Date": 46533,
+      "Exchange rate": 13827.0634765625
+    },
+    {
+      "Date": 46534,
+      "Exchange rate": 13827.0625
+    },
+    {
+      "Date": 46535,
+      "Exchange rate": 13827.0615234375
+    },
+    {
+      "Date": 46536,
+      "Exchange rate": 13827.060546875
+    },
+    {
+      "Date": 46537,
+      "Exchange rate": 13827.060546875
+    },
+    {
+      "Date": 46538,
+      "Exchange rate": 13827.0595703125
+    },
+    {
+      "Date": 46539,
+      "Exchange rate": 13827.05859375
+    },
+    {
+      "Date": 46540,
+      "Exchange rate": 13827.0576171875
+    },
+    {
+      "Date": 46541,
+      "Exchange rate": 13827.0576171875
+    },
+    {
+      "Date": 46542,
+      "Exchange rate": 13827.0576171875
+    },
+    {
+      "Date": 46543,
+      "Exchange rate": 13827.056640625
+    },
+    {
+      "Date": 46544,
+      "Exchange rate": 13827.0556640625
+    },
+    {
+      "Date": 46545,
+      "Exchange rate": 13827.0556640625
+    },
+    {
+      "Date": 46546,
+      "Exchange rate": 13827.0546875
+    },
+    {
+      "Date": 46547,
+      "Exchange rate": 13827.0537109375
+    },
+    {
+      "Date": 46548,
+      "Exchange rate": 13827.052734375
+    },
+    {
+      "Date": 46549,
+      "Exchange rate": 13827.0517578125
+    },
+    {
+      "Date": 46550,
+      "Exchange rate": 13827.0517578125
+    },
+    {
+      "Date": 46551,
+      "Exchange rate": 13827.0517578125
+    },
+    {
+      "Date": 46552,
+      "Exchange rate": 13827.05078125
+    },
+    {
+      "Date": 46553,
+      "Exchange rate": 13827.0498046875
+    },
+    {
+      "Date": 46554,
+      "Exchange rate": 13827.048828125
+    },
+    {
+      "Date": 46555,
+      "Exchange rate": 13827.048828125
+    },
+    {
+      "Date": 46556,
+      "Exchange rate": 13827.0478515625
+    },
+    {
+      "Date": 46557,
+      "Exchange rate": 13827.046875
+    },
+    {
+      "Date": 46558,
+      "Exchange rate": 13827.046875
+    },
+    {
+      "Date": 46559,
+      "Exchange rate": 13827.046875
+    },
+    {
+      "Date": 46560,
+      "Exchange rate": 13827.0458984375
+    },
+    {
+      "Date": 46561,
+      "Exchange rate": 13827.044921875
+    },
+    {
+      "Date": 46562,
+      "Exchange rate": 13827.0439453125
+    },
+    {
+      "Date": 46563,
+      "Exchange rate": 13827.0439453125
+    },
+    {
+      "Date": 46564,
+      "Exchange rate": 13827.04296875
+    },
+    {
+      "Date": 46565,
+      "Exchange rate": 13827.0419921875
+    },
+    {
+      "Date": 46566,
+      "Exchange rate": 13827.041015625
+    },
+    {
+      "Date": 46567,
+      "Exchange rate": 13827.041015625
+    },
+    {
+      "Date": 46568,
+      "Exchange rate": 13827.041015625
+    },
+    {
+      "Date": 46569,
+      "Exchange rate": 13827.0400390625
+    },
+    {
+      "Date": 46570,
+      "Exchange rate": 13827.0390625
+    },
+    {
+      "Date": 46571,
+      "Exchange rate": 13827.0390625
+    },
+    {
+      "Date": 46572,
+      "Exchange rate": 13827.0380859375
+    },
+    {
+      "Date": 46573,
+      "Exchange rate": 13827.037109375
+    },
+    {
+      "Date": 46574,
+      "Exchange rate": 13827.0361328125
+    },
+    {
+      "Date": 46575,
+      "Exchange rate": 13827.0361328125
+    },
+    {
+      "Date": 46576,
+      "Exchange rate": 13827.03515625
+    },
+    {
+      "Date": 46577,
+      "Exchange rate": 13827.03515625
+    },
+    {
+      "Date": 46578,
+      "Exchange rate": 13827.0341796875
+    },
+    {
+      "Date": 46579,
+      "Exchange rate": 13827.0341796875
+    },
+    {
+      "Date": 46580,
+      "Exchange rate": 13827.033203125
+    },
+    {
+      "Date": 46581,
+      "Exchange rate": 13827.0322265625
+    },
+    {
+      "Date": 46582,
+      "Exchange rate": 13827.03125
+    },
+    {
+      "Date": 46583,
+      "Exchange rate": 13827.0302734375
+    },
+    {
+      "Date": 46584,
+      "Exchange rate": 13827.0302734375
+    },
+    {
+      "Date": 46585,
+      "Exchange rate": 13827.0302734375
+    },
+    {
+      "Date": 46586,
+      "Exchange rate": 13827.029296875
+    },
+    {
+      "Date": 46587,
+      "Exchange rate": 13827.029296875
+    },
+    {
+      "Date": 46588,
+      "Exchange rate": 13827.0283203125
+    },
+    {
+      "Date": 46589,
+      "Exchange rate": 13827.02734375
+    },
+    {
+      "Date": 46590,
+      "Exchange rate": 13827.0263671875
+    },
+    {
+      "Date": 46591,
+      "Exchange rate": 13827.0263671875
+    },
+    {
+      "Date": 46592,
+      "Exchange rate": 13827.025390625
+    },
+    {
+      "Date": 46593,
+      "Exchange rate": 13827.0244140625
+    },
+    {
+      "Date": 46594,
+      "Exchange rate": 13827.0244140625
+    },
+    {
+      "Date": 46595,
+      "Exchange rate": 13827.0244140625
+    },
+    {
+      "Date": 46596,
+      "Exchange rate": 13827.0234375
+    },
+    {
+      "Date": 46597,
+      "Exchange rate": 13827.0224609375
+    },
+    {
+      "Date": 46598,
+      "Exchange rate": 13827.0224609375
+    },
+    {
+      "Date": 46599,
+      "Exchange rate": 13827.021484375
+    },
+    {
+      "Date": 46600,
+      "Exchange rate": 13827.0205078125
+    },
+    {
+      "Date": 46601,
+      "Exchange rate": 13827.01953125
+    },
+    {
+      "Date": 46602,
+      "Exchange rate": 13827.01953125
+    },
+    {
+      "Date": 46603,
+      "Exchange rate": 13827.01953125
+    },
+    {
+      "Date": 46604,
+      "Exchange rate": 13827.0185546875
+    },
+    {
+      "Date": 46605,
+      "Exchange rate": 13827.017578125
+    },
+    {
+      "Date": 46606,
+      "Exchange rate": 13827.017578125
+    },
+    {
+      "Date": 46607,
+      "Exchange rate": 13827.0166015625
+    },
+    {
+      "Date": 46608,
+      "Exchange rate": 13827.015625
+    },
+    {
+      "Date": 46609,
+      "Exchange rate": 13827.015625
+    },
+    {
+      "Date": 46610,
+      "Exchange rate": 13827.0146484375
+    },
+    {
+      "Date": 46611,
+      "Exchange rate": 13827.013671875
+    },
+    {
+      "Date": 46612,
+      "Exchange rate": 13827.013671875
+    },
+    {
+      "Date": 46613,
+      "Exchange rate": 13827.013671875
+    },
+    {
+      "Date": 46614,
+      "Exchange rate": 13827.0126953125
+    },
+    {
+      "Date": 46615,
+      "Exchange rate": 13827.0126953125
+    },
+    {
+      "Date": 46616,
+      "Exchange rate": 13827.01171875
+    },
+    {
+      "Date": 46617,
+      "Exchange rate": 13827.0107421875
+    },
+    {
+      "Date": 46618,
+      "Exchange rate": 13827.0107421875
+    },
+    {
+      "Date": 46619,
+      "Exchange rate": 13827.009765625
+    },
+    {
+      "Date": 46620,
+      "Exchange rate": 13827.0087890625
+    },
+    {
+      "Date": 46621,
+      "Exchange rate": 13827.0078125
+    },
+    {
+      "Date": 46622,
+      "Exchange rate": 13827.0078125
+    },
+    {
+      "Date": 46623,
+      "Exchange rate": 13827.0078125
+    },
+    {
+      "Date": 46624,
+      "Exchange rate": 13827.0068359375
+    },
+    {
+      "Date": 46625,
+      "Exchange rate": 13827.0068359375
+    },
+    {
+      "Date": 46626,
+      "Exchange rate": 13827.005859375
+    },
+    {
+      "Date": 46627,
+      "Exchange rate": 13827.0048828125
+    },
+    {
+      "Date": 46628,
+      "Exchange rate": 13827.0048828125
+    },
+    {
+      "Date": 46629,
+      "Exchange rate": 13827.00390625
+    },
+    {
+      "Date": 46630,
+      "Exchange rate": 13827.0029296875
+    },
+    {
+      "Date": 46631,
+      "Exchange rate": 13827.0029296875
+    },
+    {
+      "Date": 46632,
+      "Exchange rate": 13827.0029296875
+    },
+    {
+      "Date": 46633,
+      "Exchange rate": 13827.0029296875
+    },
+    {
+      "Date": 46634,
+      "Exchange rate": 13827.001953125
+    },
+    {
+      "Date": 46635,
+      "Exchange rate": 13827.0009765625
+    },
+    {
+      "Date": 46636,
+      "Exchange rate": 13827.0009765625
+    },
+    {
+      "Date": 46637,
+      "Exchange rate": 13827
+    },
+    {
+      "Date": 46638,
+      "Exchange rate": 13826.9990234375
+    },
+    {
+      "Date": 46639,
+      "Exchange rate": 13826.9990234375
+    },
+    {
+      "Date": 46640,
+      "Exchange rate": 13826.998046875
+    },
+    {
+      "Date": 46641,
+      "Exchange rate": 13826.9970703125
+    },
+    {
+      "Date": 46642,
+      "Exchange rate": 13826.9970703125
+    },
+    {
+      "Date": 46643,
+      "Exchange rate": 13826.9970703125
+    },
+    {
+      "Date": 46644,
+      "Exchange rate": 13826.99609375
+    },
+    {
+      "Date": 46645,
+      "Exchange rate": 13826.99609375
+    },
+    {
+      "Date": 46646,
+      "Exchange rate": 13826.9951171875
+    },
+    {
+      "Date": 46647,
+      "Exchange rate": 13826.994140625
+    },
+    {
+      "Date": 46648,
+      "Exchange rate": 13826.994140625
+    },
+    {
+      "Date": 46649,
+      "Exchange rate": 13826.9931640625
+    },
+    {
+      "Date": 46650,
+      "Exchange rate": 13826.9931640625
+    },
+    {
+      "Date": 46651,
+      "Exchange rate": 13826.9921875
+    },
+    {
+      "Date": 46652,
+      "Exchange rate": 13826.9912109375
+    },
+    {
+      "Date": 46653,
+      "Exchange rate": 13826.9912109375
+    },
+    {
+      "Date": 46654,
+      "Exchange rate": 13826.9912109375
+    },
+    {
+      "Date": 46655,
+      "Exchange rate": 13826.9912109375
+    },
+    {
+      "Date": 46656,
+      "Exchange rate": 13826.990234375
+    },
+    {
+      "Date": 46657,
+      "Exchange rate": 13826.9892578125
+    },
+    {
+      "Date": 46658,
+      "Exchange rate": 13826.9892578125
+    },
+    {
+      "Date": 46659,
+      "Exchange rate": 13826.98828125
+    },
+    {
+      "Date": 46660,
+      "Exchange rate": 13826.9873046875
+    },
+    {
+      "Date": 46661,
+      "Exchange rate": 13826.9873046875
+    },
+    {
+      "Date": 46662,
+      "Exchange rate": 13826.986328125
+    },
+    {
+      "Date": 46663,
+      "Exchange rate": 13826.986328125
+    },
+    {
+      "Date": 46664,
+      "Exchange rate": 13826.986328125
+    },
+    {
+      "Date": 46665,
+      "Exchange rate": 13826.9853515625
+    },
+    {
+      "Date": 46666,
+      "Exchange rate": 13826.9853515625
+    },
+    {
+      "Date": 46667,
+      "Exchange rate": 13826.984375
+    },
+    {
+      "Date": 46668,
+      "Exchange rate": 13826.9833984375
+    },
+    {
+      "Date": 46669,
+      "Exchange rate": 13826.9833984375
+    },
+    {
+      "Date": 46670,
+      "Exchange rate": 13826.982421875
+    },
+    {
+      "Date": 46671,
+      "Exchange rate": 13826.9814453125
+    },
+    {
+      "Date": 46672,
+      "Exchange rate": 13826.9814453125
+    },
+    {
+      "Date": 46673,
+      "Exchange rate": 13826.98046875
+    },
+    {
+      "Date": 46674,
+      "Exchange rate": 13826.98046875
+    },
+    {
+      "Date": 46675,
+      "Exchange rate": 13826.98046875
+    },
+    {
+      "Date": 46676,
+      "Exchange rate": 13826.9794921875
+    },
+    {
+      "Date": 46677,
+      "Exchange rate": 13826.978515625
+    },
+    {
+      "Date": 46678,
+      "Exchange rate": 13826.978515625
+    },
+    {
+      "Date": 46679,
+      "Exchange rate": 13826.9775390625
+    },
+    {
+      "Date": 46680,
+      "Exchange rate": 13826.9765625
+    },
+    {
+      "Date": 46681,
+      "Exchange rate": 13826.9765625
+    },
+    {
+      "Date": 46682,
+      "Exchange rate": 13826.9755859375
+    },
+    {
+      "Date": 46683,
+      "Exchange rate": 13826.9755859375
+    },
+    {
+      "Date": 46684,
+      "Exchange rate": 13826.974609375
+    },
+    {
+      "Date": 46685,
+      "Exchange rate": 13826.974609375
+    },
+    {
+      "Date": 46686,
+      "Exchange rate": 13826.974609375
+    },
+    {
+      "Date": 46687,
+      "Exchange rate": 13826.9736328125
+    },
+    {
+      "Date": 46688,
+      "Exchange rate": 13826.97265625
+    },
+    {
+      "Date": 46689,
+      "Exchange rate": 13826.97265625
+    },
+    {
+      "Date": 46690,
+      "Exchange rate": 13826.9716796875
+    },
+    {
+      "Date": 46691,
+      "Exchange rate": 13826.970703125
+    },
+    {
+      "Date": 46692,
+      "Exchange rate": 13826.970703125
+    },
+    {
+      "Date": 46693,
+      "Exchange rate": 13826.9697265625
+    },
+    {
+      "Date": 46694,
+      "Exchange rate": 13826.9697265625
+    },
+    {
+      "Date": 46695,
+      "Exchange rate": 13826.9697265625
+    },
+    {
+      "Date": 46696,
+      "Exchange rate": 13826.96875
+    },
+    {
+      "Date": 46697,
+      "Exchange rate": 13826.9677734375
+    },
+    {
+      "Date": 46698,
+      "Exchange rate": 13826.9677734375
+    },
+    {
+      "Date": 46699,
+      "Exchange rate": 13826.966796875
+    },
+    {
+      "Date": 46700,
+      "Exchange rate": 13826.966796875
+    },
+    {
+      "Date": 46701,
+      "Exchange rate": 13826.9658203125
+    },
+    {
+      "Date": 46702,
+      "Exchange rate": 13826.96484375
+    },
+    {
+      "Date": 46703,
+      "Exchange rate": 13826.96484375
+    },
+    {
+      "Date": 46704,
+      "Exchange rate": 13826.9638671875
+    },
+    {
+      "Date": 46705,
+      "Exchange rate": 13826.9638671875
+    },
+    {
+      "Date": 46706,
+      "Exchange rate": 13826.9638671875
+    },
+    {
+      "Date": 46707,
+      "Exchange rate": 13826.962890625
+    },
+    {
+      "Date": 46708,
+      "Exchange rate": 13826.962890625
+    },
+    {
+      "Date": 46709,
+      "Exchange rate": 13826.9619140625
+    },
+    {
+      "Date": 46710,
+      "Exchange rate": 13826.9619140625
+    },
+    {
+      "Date": 46711,
+      "Exchange rate": 13826.9609375
+    },
+    {
+      "Date": 46712,
+      "Exchange rate": 13826.9599609375
+    },
+    {
+      "Date": 46713,
+      "Exchange rate": 13826.9599609375
+    },
+    {
+      "Date": 46714,
+      "Exchange rate": 13826.958984375
+    },
+    {
+      "Date": 46715,
+      "Exchange rate": 13826.958984375
+    },
+    {
+      "Date": 46716,
+      "Exchange rate": 13826.958984375
+    },
+    {
+      "Date": 46717,
+      "Exchange rate": 13826.958984375
+    },
+    {
+      "Date": 46718,
+      "Exchange rate": 13826.9580078125
+    },
+    {
+      "Date": 46719,
+      "Exchange rate": 13826.9580078125
+    },
+    {
+      "Date": 46720,
+      "Exchange rate": 13826.95703125
+    },
+    {
+      "Date": 46721,
+      "Exchange rate": 13826.95703125
+    },
+    {
+      "Date": 46722,
+      "Exchange rate": 13826.9560546875
+    },
+    {
+      "Date": 46723,
+      "Exchange rate": 13826.9560546875
+    },
+    {
+      "Date": 46724,
+      "Exchange rate": 13826.955078125
+    },
+    {
+      "Date": 46725,
+      "Exchange rate": 13826.955078125
+    },
+    {
+      "Date": 46726,
+      "Exchange rate": 13826.9541015625
+    },
+    {
+      "Date": 46727,
+      "Exchange rate": 13826.953125
+    },
+    {
+      "Date": 46728,
+      "Exchange rate": 13826.953125
+    },
+    {
+      "Date": 46729,
+      "Exchange rate": 13826.953125
+    },
+    {
+      "Date": 46730,
+      "Exchange rate": 13826.953125
+    },
+    {
+      "Date": 46731,
+      "Exchange rate": 13826.9521484375
+    },
+    {
+      "Date": 46732,
+      "Exchange rate": 13826.9521484375
+    },
+    {
+      "Date": 46733,
+      "Exchange rate": 13826.951171875
+    },
+    {
+      "Date": 46734,
+      "Exchange rate": 13826.951171875
+    },
+    {
+      "Date": 46735,
+      "Exchange rate": 13826.9501953125
+    },
+    {
+      "Date": 46736,
+      "Exchange rate": 13826.9501953125
+    },
+    {
+      "Date": 46737,
+      "Exchange rate": 13826.94921875
+    },
+    {
+      "Date": 46738,
+      "Exchange rate": 13826.94921875
+    },
+    {
+      "Date": 46739,
+      "Exchange rate": 13826.9482421875
+    },
+    {
+      "Date": 46740,
+      "Exchange rate": 13826.9482421875
+    },
+    {
+      "Date": 46741,
+      "Exchange rate": 13826.947265625
+    },
+    {
+      "Date": 46742,
+      "Exchange rate": 13826.947265625
+    },
+    {
+      "Date": 46743,
+      "Exchange rate": 13826.947265625
+    },
+    {
+      "Date": 46744,
+      "Exchange rate": 13826.947265625
+    },
+    {
+      "Date": 46745,
+      "Exchange rate": 13826.9462890625
+    },
+    {
+      "Date": 46746,
+      "Exchange rate": 13826.9462890625
+    },
+    {
+      "Date": 46747,
+      "Exchange rate": 13826.9453125
+    },
+    {
+      "Date": 46748,
+      "Exchange rate": 13826.9453125
+    },
+    {
+      "Date": 46749,
+      "Exchange rate": 13826.9443359375
+    },
+    {
+      "Date": 46750,
+      "Exchange rate": 13826.9443359375
+    },
+    {
+      "Date": 46751,
+      "Exchange rate": 13826.943359375
+    },
+    {
+      "Date": 46752,
+      "Exchange rate": 13826.943359375
+    },
+    {
+      "Date": 46753,
+      "Exchange rate": 13826.9423828125
+    },
+    {
+      "Date": 46754,
+      "Exchange rate": 13826.9423828125
+    },
+    {
+      "Date": 46755,
+      "Exchange rate": 13826.9423828125
+    },
+    {
+      "Date": 46756,
+      "Exchange rate": 13826.9423828125
+    },
+    {
+      "Date": 46757,
+      "Exchange rate": 13826.94140625
+    },
+    {
+      "Date": 46758,
+      "Exchange rate": 13826.94140625
+    },
+    {
+      "Date": 46759,
+      "Exchange rate": 13826.9404296875
+    },
+    {
+      "Date": 46760,
+      "Exchange rate": 13826.9404296875
+    },
+    {
+      "Date": 46761,
+      "Exchange rate": 13826.939453125
+    },
+    {
+      "Date": 46762,
+      "Exchange rate": 13826.939453125
+    },
+    {
+      "Date": 46763,
+      "Exchange rate": 13826.9384765625
+    },
+    {
+      "Date": 46764,
+      "Exchange rate": 13826.9384765625
+    },
+    {
+      "Date": 46765,
+      "Exchange rate": 13826.9375
+    },
+    {
+      "Date": 46766,
+      "Exchange rate": 13826.9375
+    },
+    {
+      "Date": 46767,
+      "Exchange rate": 13826.9365234375
+    },
+    {
+      "Date": 46768,
+      "Exchange rate": 13826.9365234375
+    },
+    {
+      "Date": 46769,
+      "Exchange rate": 13826.9365234375
+    },
+    {
+      "Date": 46770,
+      "Exchange rate": 13826.9365234375
+    },
+    {
+      "Date": 46771,
+      "Exchange rate": 13826.935546875
+    },
+    {
+      "Date": 46772,
+      "Exchange rate": 13826.935546875
+    },
+    {
+      "Date": 46773,
+      "Exchange rate": 13826.9345703125
+    },
+    {
+      "Date": 46774,
+      "Exchange rate": 13826.9345703125
+    },
+    {
+      "Date": 46775,
+      "Exchange rate": 13826.93359375
+    },
+    {
+      "Date": 46776,
+      "Exchange rate": 13826.93359375
+    },
+    {
+      "Date": 46777,
+      "Exchange rate": 13826.9326171875
+    },
+    {
+      "Date": 46778,
+      "Exchange rate": 13826.9326171875
+    },
+    {
+      "Date": 46779,
+      "Exchange rate": 13826.931640625
+    },
+    {
+      "Date": 46780,
+      "Exchange rate": 13826.931640625
+    },
+    {
+      "Date": 46781,
+      "Exchange rate": 13826.9306640625
+    },
+    {
+      "Date": 46782,
+      "Exchange rate": 13826.9306640625
+    },
+    {
+      "Date": 46783,
+      "Exchange rate": 13826.9306640625
+    },
+    {
+      "Date": 46784,
+      "Exchange rate": 13826.9306640625
+    },
+    {
+      "Date": 46785,
+      "Exchange rate": 13826.9306640625
+    },
+    {
+      "Date": 46786,
+      "Exchange rate": 13826.9296875
+    },
+    {
+      "Date": 46787,
+      "Exchange rate": 13826.9296875
+    },
+    {
+      "Date": 46788,
+      "Exchange rate": 13826.9287109375
+    },
+    {
+      "Date": 46789,
+      "Exchange rate": 13826.9287109375
+    },
+    {
+      "Date": 46790,
+      "Exchange rate": 13826.927734375
+    },
+    {
+      "Date": 46791,
+      "Exchange rate": 13826.927734375
+    },
+    {
+      "Date": 46792,
+      "Exchange rate": 13826.927734375
+    },
+    {
+      "Date": 46793,
+      "Exchange rate": 13826.9267578125
+    },
+    {
+      "Date": 46794,
+      "Exchange rate": 13826.9267578125
+    },
+    {
+      "Date": 46795,
+      "Exchange rate": 13826.92578125
+    },
+    {
+      "Date": 46796,
+      "Exchange rate": 13826.92578125
+    },
+    {
+      "Date": 46797,
+      "Exchange rate": 13826.92578125
+    },
+    {
+      "Date": 46798,
+      "Exchange rate": 13826.92578125
+    },
+    {
+      "Date": 46799,
+      "Exchange rate": 13826.92578125
+    },
+    {
+      "Date": 46800,
+      "Exchange rate": 13826.9248046875
+    },
+    {
+      "Date": 46801,
+      "Exchange rate": 13826.9248046875
+    },
+    {
+      "Date": 46802,
+      "Exchange rate": 13826.923828125
+    },
+    {
+      "Date": 46803,
+      "Exchange rate": 13826.923828125
+    },
+    {
+      "Date": 46804,
+      "Exchange rate": 13826.9228515625
+    },
+    {
+      "Date": 46805,
+      "Exchange rate": 13826.9228515625
+    },
+    {
+      "Date": 46806,
+      "Exchange rate": 13826.921875
+    },
+    {
+      "Date": 46807,
+      "Exchange rate": 13826.921875
+    },
+    {
+      "Date": 46808,
+      "Exchange rate": 13826.9208984375
+    },
+    {
+      "Date": 46809,
+      "Exchange rate": 13826.9208984375
+    },
+    {
+      "Date": 46810,
+      "Exchange rate": 13826.9208984375
+    },
+    {
+      "Date": 46811,
+      "Exchange rate": 13826.919921875
+    },
+    {
+      "Date": 46812,
+      "Exchange rate": 13826.919921875
+    },
+    {
+      "Date": 46813,
+      "Exchange rate": 13826.919921875
+    },
+    {
+      "Date": 46814,
+      "Exchange rate": 13826.919921875
+    },
+    {
+      "Date": 46815,
+      "Exchange rate": 13826.919921875
+    },
+    {
+      "Date": 46816,
+      "Exchange rate": 13826.9189453125
+    },
+    {
+      "Date": 46817,
+      "Exchange rate": 13826.9189453125
+    },
+    {
+      "Date": 46818,
+      "Exchange rate": 13826.91796875
+    },
+    {
+      "Date": 46819,
+      "Exchange rate": 13826.91796875
+    },
+    {
+      "Date": 46820,
+      "Exchange rate": 13826.91796875
+    },
+    {
+      "Date": 46821,
+      "Exchange rate": 13826.9169921875
+    },
+    {
+      "Date": 46822,
+      "Exchange rate": 13826.9169921875
+    },
+    {
+      "Date": 46823,
+      "Exchange rate": 13826.9169921875
+    },
+    {
+      "Date": 46824,
+      "Exchange rate": 13826.916015625
+    },
+    {
+      "Date": 46825,
+      "Exchange rate": 13826.916015625
+    },
+    {
+      "Date": 46826,
+      "Exchange rate": 13826.9150390625
+    },
+    {
+      "Date": 46827,
+      "Exchange rate": 13826.9150390625
+    },
+    {
+      "Date": 46828,
+      "Exchange rate": 13826.9150390625
+    },
+    {
+      "Date": 46829,
+      "Exchange rate": 13826.9140625
+    },
+    {
+      "Date": 46830,
+      "Exchange rate": 13826.9140625
+    },
+    {
+      "Date": 46831,
+      "Exchange rate": 13826.9140625
+    },
+    {
+      "Date": 46832,
+      "Exchange rate": 13826.9140625
+    },
+    {
+      "Date": 46833,
+      "Exchange rate": 13826.9130859375
+    },
+    {
+      "Date": 46834,
+      "Exchange rate": 13826.9130859375
+    },
+    {
+      "Date": 46835,
+      "Exchange rate": 13826.9130859375
+    },
+    {
+      "Date": 46836,
+      "Exchange rate": 13826.912109375
+    },
+    {
+      "Date": 46837,
+      "Exchange rate": 13826.912109375
+    },
+    {
+      "Date": 46838,
+      "Exchange rate": 13826.912109375
+    },
+    {
+      "Date": 46839,
+      "Exchange rate": 13826.9111328125
+    },
+    {
+      "Date": 46840,
+      "Exchange rate": 13826.9111328125
+    },
+    {
+      "Date": 46841,
+      "Exchange rate": 13826.91015625
+    },
+    {
+      "Date": 46842,
+      "Exchange rate": 13826.91015625
+    },
+    {
+      "Date": 46843,
+      "Exchange rate": 13826.9091796875
+    },
+    {
+      "Date": 46844,
+      "Exchange rate": 13826.9091796875
+    },
+    {
+      "Date": 46845,
+      "Exchange rate": 13826.9091796875
+    },
+    {
+      "Date": 46846,
+      "Exchange rate": 13826.9091796875
+    },
+    {
+      "Date": 46847,
+      "Exchange rate": 13826.9091796875
+    },
+    {
+      "Date": 46848,
+      "Exchange rate": 13826.908203125
+    },
+    {
+      "Date": 46849,
+      "Exchange rate": 13826.908203125
+    },
+    {
+      "Date": 46850,
+      "Exchange rate": 13826.908203125
+    },
+    {
+      "Date": 46851,
+      "Exchange rate": 13826.9072265625
+    },
+    {
+      "Date": 46852,
+      "Exchange rate": 13826.9072265625
+    },
+    {
+      "Date": 46853,
+      "Exchange rate": 13826.90625
+    },
+    {
+      "Date": 46854,
+      "Exchange rate": 13826.90625
+    },
+    {
+      "Date": 46855,
+      "Exchange rate": 13826.90625
+    },
+    {
+      "Date": 46856,
+      "Exchange rate": 13826.90625
+    },
+    {
+      "Date": 46857,
+      "Exchange rate": 13826.9052734375
+    },
+    {
+      "Date": 46858,
+      "Exchange rate": 13826.9052734375
+    },
+    {
+      "Date": 46859,
+      "Exchange rate": 13826.904296875
+    },
+    {
+      "Date": 46860,
+      "Exchange rate": 13826.904296875
+    },
+    {
+      "Date": 46861,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46862,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46863,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46864,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46865,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46866,
+      "Exchange rate": 13826.9033203125
+    },
+    {
+      "Date": 46867,
+      "Exchange rate": 13826.90234375
+    },
+    {
+      "Date": 46868,
+      "Exchange rate": 13826.90234375
+    },
+    {
+      "Date": 46869,
+      "Exchange rate": 13826.90234375
+    },
+    {
+      "Date": 46870,
+      "Exchange rate": 13826.9013671875
+    },
+    {
+      "Date": 46871,
+      "Exchange rate": 13826.9013671875
+    },
+    {
+      "Date": 46872,
+      "Exchange rate": 13826.9013671875
+    },
+    {
+      "Date": 46873,
+      "Exchange rate": 13826.900390625
+    },
+    {
+      "Date": 46874,
+      "Exchange rate": 13826.900390625
+    },
+    {
+      "Date": 46875,
+      "Exchange rate": 13826.8994140625
+    },
+    {
+      "Date": 46876,
+      "Exchange rate": 13826.8994140625
+    },
+    {
+      "Date": 46877,
+      "Exchange rate": 13826.8994140625
+    },
+    {
+      "Date": 46878,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46879,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46880,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46881,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46882,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46883,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46884,
+      "Exchange rate": 13826.8984375
+    },
+    {
+      "Date": 46885,
+      "Exchange rate": 13826.8974609375
+    },
+    {
+      "Date": 46886,
+      "Exchange rate": 13826.8974609375
+    },
+    {
+      "Date": 46887,
+      "Exchange rate": 13826.8974609375
+    },
+    {
+      "Date": 46888,
+      "Exchange rate": 13826.896484375
+    },
+    {
+      "Date": 46889,
+      "Exchange rate": 13826.896484375
+    },
+    {
+      "Date": 46890,
+      "Exchange rate": 13826.896484375
+    },
+    {
+      "Date": 46891,
+      "Exchange rate": 13826.8955078125
+    },
+    {
+      "Date": 46892,
+      "Exchange rate": 13826.8955078125
+    },
+    {
+      "Date": 46893,
+      "Exchange rate": 13826.8955078125
+    },
+    {
+      "Date": 46894,
+      "Exchange rate": 13826.89453125
+    },
+    {
+      "Date": 46895,
+      "Exchange rate": 13826.89453125
+    },
+    {
+      "Date": 46896,
+      "Exchange rate": 13826.89453125
+    },
+    {
+      "Date": 46897,
+      "Exchange rate": 13826.8935546875
+    },
+    {
+      "Date": 46898,
+      "Exchange rate": 13826.8935546875
+    },
+    {
+      "Date": 46899,
+      "Exchange rate": 13826.8935546875
+    },
+    {
+      "Date": 46900,
+      "Exchange rate": 13826.892578125
+    },
+    {
+      "Date": 46901,
+      "Exchange rate": 13826.892578125
+    }
+  ]
+}
